@@ -1,0 +1,18 @@
+Clasice arcade reunește 63 jocuri arcade într-o aplicație, cu designul nostru propriu. Arcade clasic, alergare și sărituri, sport, îndemânare și reflexe, fizică și țintire, labirinturi și rivali; fiecare joc are progres, misiuni și realizări proprii.
+
+• Arcade clasic: Șarpele, Spărgătorul de cărămizi, Trăgătorul spațial, Invadatorii cerului, Spărgătorul de roci, Duelul paletelor, Urmărire în labirint, Miriapodul din grădină, Apărarea anti-meteori, Bătălia tancurilor, Ploaia de gloanțe, Pinball
+• Aleargă și sari: Alergare fără sfârșit, Fuga dinozaurului, Goana pe skate, Săritura fără sfârșit, Bate din aripi, Avionul de hârtie, Aventura pe platforme, Fugi și trage, Traversează drumul, Slalom la schi, Căderea în spirală, Trecerea culorilor
+• Sport: Minigolf, Bowling, Aruncarea la coș, Lovitura de pedeapsă, Darts, Tir cu arcul, Fotbal cu degetul, Tenis, Volei pe plajă, Air hockey, Biliard, Tenis de masă
+• Îndemânare și reflexe: Spargă baloanele, Feliază fructele, Lovește cârtița, Testul reflexelor, Antrenament de țintire, Poligonul de tir, Aruncarea cuțitelor, Turnul stivuit, Turnul Echilibrului, Pachetul cu o atingere, Pescuit liniștit
+• Fizică și țintire: Praștia, Duelul de artilerie, Taie frânghia, Labirintul înclinat, Aselenizare, Gaura care crește, Cursa de sus, Parcare 2D
+• Labirinturi și rivali: Cucerirea terenului, Arena șerpilor, Motociclete de lumină, Labirintul cu bombe, Sapă adânc, Mina cu bolovani, Ghidul drumeților, Apărarea turnurilor
+
+Puncte forte
+• 100.000 de niveluri pe joc; viteza și dificultatea cresc treptat, iar o IA joacă fiecare nivel pentru a dovedi că poate fi trecut.
+• Zece trepte de dificultate: niveluri relaxante la început, provocări de expert mai târziu.
+• Două bonusuri, scut și încetinire, plus șansa de a continua după înfrângere.
+• Niveluri zilnice și săptămânale, misiuni, realizări și 33 de limbi.
+• Se joacă offline pe telefon, tabletă și web.
+• Fără jocuri de noroc, pariuri sau conținut 18+; potrivit pentru toate vârstele.
+
+Achizițiile (de ex. fără reclame) se aplică tuturor jocurilor din aplicație.

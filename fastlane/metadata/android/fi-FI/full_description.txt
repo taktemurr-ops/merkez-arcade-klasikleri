@@ -1,0 +1,18 @@
+Arcade-klassikot kokoaa 63 arcade-peliä yhteen sovellukseen omalla suunnittelullamme. Klassista arcadea, juoksua ja hyppyjä, urheilua, taitoa ja refleksejä, fysiikkaa ja tähtäystä, labyrintteja ja kilpailijoita; jokaisella pelillä on omat edistyksensä, tehtävänsä ja saavutuksensa.
+
+• Klassinen arcade: Mato, Tiilenmurskaaja, Avaruusammunta, Taivaan valloittajat, Kivimurskain, Mailakaksintaistelu, Sokkelojahti, Puutarhan juoksujalkainen, Meteoripuolustus, Panssarisota, Luotisade, Flipperi
+• Juokse ja hyppää: Loputon juoksu, Dinokirmaisu, Rullalautakiito, Pomppukisa, Siivenisku, Paperilennokki, Tasohyppelyseikkailu, Juokse ja ammu, Tienylittäjä, Pujottelu, Spiraalipudotus, Väriläpikulku
+• Urheilu: Minigolf, Keilailu, Koriheitto, Rangaistuspotku, Tikka, Jousiammunta, Sormijalkapallo, Tennis, Rantalentopallo, Ilmakiekko, Biljardi, Pöytätennis
+• Taito ja refleksit: Ilmapallopaukku, Hedelmäviipale, Myyrän moukarointi, Reaktiotesti, Tähtäysharjoitus, Ampumarata, Veitsenheitto, Pinottu torni, Tasapainotorni, Yhden napautuksen paketti, Rauhallinen kalastus
+• Fysiikka ja tähtäys: Ritsa, Tykistökaksintaistelu, Katkaise köysi, Kallistuslabyrintti, Kuulaskeutuminen, Kasvava reikä, Ylhäältä kisa, 2D-pysäköinti
+• Labyrintit ja kilpailijat: Alueenvaltaus, Käärmeareena, Valopyörät, Pommilabyrintti, Kaiva syvälle, Kivivyöryn kaivos, Kulkijaopas, Tornipuolustus
+
+Kohokohdat
+• 100 000 tasoa per peli; vauhti ja vaikeus kasvavat askel askeleelta, ja tekoäly pelaa jokaisen tason läpi todistaakseen sen läpäistäväksi.
+• Kymmenen vaikeusporrasta: rento alku, myöhemmin haasteita asiantuntijoille.
+• Kaksi tehostetta, kilpi ja hidastus, sekä mahdollisuus jatkaa häviön jälkeen.
+• Päivä- ja viikkotasot, tehtävät, saavutukset ja 33 kieltä.
+• Pelattavissa ilman verkkoa puhelimella, tabletilla ja verkossa.
+• Ei rahapelejä, vedonlyöntiä tai K18-sisältöä; sopii kaikenikäisille.
+
+Ostokset (esim. mainoksettomuus) koskevat kaikkia sovelluksen pelejä.

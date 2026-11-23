@@ -1,0 +1,326 @@
+name: merkez_arcade_klasikleri
+description: "Arcade Klasikleri merkez uygulaması. Offline-first Flutter game for Android, iOS and Web."
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Ortak çekirdek: https://github.com/taktemurr-ops/studio-core
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: dded001fa59c192dc84252631a139adaac6751f5
+  # Merkezdeki oyunlar (her biri kendi deposunda)
+  oyun_yilan:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-yilan
+      ref: main
+  oyun_tugla_kirma:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-tugla-kirma
+      ref: main
+  oyun_uzay_atisi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-uzay-atisi
+      ref: main
+  oyun_uzay_istilacilari:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-uzay-istilacilari
+      ref: main
+  oyun_asteroit:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-asteroit
+      ref: main
+  oyun_raket_duellosu:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-raket-duellosu
+      ref: main
+  oyun_labirent_kovalamaca:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-labirent-kovalamaca
+      ref: main
+  oyun_kirkayak:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kirkayak
+      ref: main
+  oyun_fuze_savunmasi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-fuze-savunmasi
+      ref: main
+  oyun_tank_savasi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-tank-savasi
+      ref: main
+  oyun_mermi_yagmuru:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-mermi-yagmuru
+      ref: main
+  oyun_pinbol:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-pinbol
+      ref: main
+  oyun_sonsuz_kosu:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-sonsuz-kosu
+      ref: main
+  oyun_dinozor_kosusu:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-dinozor-kosusu
+      ref: main
+  oyun_kaykay_sorf_kosusu:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kaykay-sorf-kosusu
+      ref: main
+  oyun_sonsuz_ziplama:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-sonsuz-ziplama
+      ref: main
+  oyun_kanat_cirpma:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kanat-cirpma
+      ref: main
+  oyun_kagit_ucak_suzulme:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kagit-ucak-suzulme
+      ref: main
+  oyun_platform_oyunu:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-platform-oyunu
+      ref: main
+  oyun_kos_ve_ates_et:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kos-ve-ates-et
+      ref: main
+  oyun_yol_gecme:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-yol-gecme
+      ref: main
+  oyun_kayak_slalom:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kayak-slalom
+      ref: main
+  oyun_helezon_dusus:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-helezon-dusus
+      ref: main
+  oyun_renk_gecisi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-renk-gecisi
+      ref: main
+  oyun_mini_golf:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-mini-golf
+      ref: main
+  oyun_bowling:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-bowling
+      ref: main
+  oyun_basketbol_atisi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-basketbol-atisi
+      ref: main
+  oyun_penalti_atisi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-penalti-atisi
+      ref: main
+  oyun_dart:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-dart
+      ref: main
+  oyun_okculuk:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-okculuk
+      ref: main
+  oyun_parmak_futbolu:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-parmak-futbolu
+      ref: main
+  oyun_tenis:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-tenis
+      ref: main
+  oyun_voleybol:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-voleybol
+      ref: main
+  oyun_hava_hokeyi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-hava-hokeyi
+      ref: 838d28878d2b4e9b0b51da37a034ba3db9e615d7
+  oyun_bilardo:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-bilardo
+      ref: ee0d4d7759314b05f70540a4a2e4a6834eb912e8
+  oyun_masa_tenisi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-masa-tenisi
+      ref: e367bdb1caf6858e39fcc95a3af77cd77f74947c
+  oyun_balon_patlatma:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-balon-patlatma
+      ref: main
+  oyun_meyve_kesme:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-meyve-kesme
+      ref: main
+  oyun_kostebek_vurma:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kostebek-vurma
+      ref: main
+  oyun_refleks_testi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-refleks-testi
+      ref: main
+  oyun_nisan_antrenmani:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-nisan-antrenmani
+      ref: main
+  oyun_atis_galerisi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-atis-galerisi
+      ref: main
+  oyun_bicak_firlatma:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-bicak-firlatma
+      ref: main
+  oyun_kule_kurma:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kule-kurma
+      ref: main
+  oyun_blok_kule_dengesi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-blok-kule-dengesi
+      ref: 3860f44ca467d8ee50ba800fae47919cc382fda9
+  oyun_hiper_gundelik_mekanik_paketi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-hiper-gundelik-mekanik-paketi
+      ref: main
+  oyun_balik_tutma:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-balik-tutma
+      ref: main
+  oyun_sapan_atisi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-sapan-atisi
+      ref: main
+  oyun_topcu_duellosu:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-topcu-duellosu
+      ref: main
+  oyun_ip_kesme:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-ip-kesme
+      ref: main
+  oyun_egik_labirent:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-egik-labirent
+      ref: main
+  oyun_ay_a_inis:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-ay-a-inis
+      ref: main
+  oyun_delik_buyutme:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-delik-buyutme
+      ref: main
+  oyun_ustten_yaris:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-ustten-yaris
+      ref: main
+  oyun_2b_park_etme:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-2b-park-etme
+      ref: main
+  oyun_alan_kapma:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-alan-kapma
+      ref: main
+  oyun_yilan_io:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-yilan-io
+      ref: main
+  oyun_isik_motoru:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-isik-motoru
+      ref: main
+  oyun_bomba_labirenti:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-bomba-labirenti
+      ref: main
+  oyun_kazi_kazi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kazi-kazi
+      ref: main
+  oyun_kaya_dusmesi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kaya-dusmesi
+      ref: main
+  oyun_yolcu_yonlendirme:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-yolcu-yonlendirme
+      ref: main
+  oyun_kule_savunmasi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kule-savunmasi
+      ref: main
+  flutter_localizations:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+  shared_preferences: ^2.3.2
+  audioplayers: ^6.5.0
+  google_mobile_ads: ^9.2.0
+  in_app_purchase: ^3.2.0
+
+dependency_overrides:
+  # Tüm oyunlar aynı çekirdek ve arcade motoru sürümünü kullansın.
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: dded001fa59c192dc84252631a139adaac6751f5
+  arcade_motoru:
+    git:
+      url: https://github.com/taktemurr-ops/arcade-motoru
+      ref: 411e3d18a7cc1866359b5583dde2bd0eba255ead
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_driver:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.1
+  flutter_native_splash: ^2.4.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sfx/
+    - assets/config/
+    - assets/branding/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: assets/branding/icon.png
+  adaptive_icon_background: "#1F2A44"
+  adaptive_icon_foreground: assets/branding/icon_foreground.png
+  web:
+    generate: true
+    image_path: assets/branding/icon.png
+    background_color: "#1F2A44"
+    theme_color: "#1F2A44"
+
+flutter_native_splash:
+  color: "#1F2A44"
+  image: assets/branding/splash.png
+  android_12:
+    color: "#1F2A44"
+    image: assets/branding/splash_android12.png
+  web: true
