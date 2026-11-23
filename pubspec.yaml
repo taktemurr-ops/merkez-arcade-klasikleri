@@ -18,135 +18,135 @@ dependencies:
   oyun_yilan:
     git:
       url: https://github.com/taktemurr-ops/oyun-yilan
-      ref: 12b76a891fd8161a863d7f204a9bdf18e6ec281d
+      ref: 2c5ddecef5ebea32a70103adc6a3c6c0352709c1
   oyun_tugla_kirma:
     git:
       url: https://github.com/taktemurr-ops/oyun-tugla-kirma
-      ref: 7ed1e9563738841bb051bd54574b1708f9c58f88
+      ref: 6ce68b8ade9c40001ba336b23ec6402ad29f0eab
   oyun_uzay_atisi:
     git:
       url: https://github.com/taktemurr-ops/oyun-uzay-atisi
-      ref: b33dd3899efaeca71395a879f3464c3445610900
+      ref: bd483a30aa2073b7461bbd4cdb76395a6d512354
   oyun_uzay_istilacilari:
     git:
       url: https://github.com/taktemurr-ops/oyun-uzay-istilacilari
-      ref: 82b4c61f08c2eac0ecdaf7abad6fa1052c47df6d
+      ref: 4b70f20e71d27c2907f644b18ec855749894354c
   oyun_asteroit:
     git:
       url: https://github.com/taktemurr-ops/oyun-asteroit
-      ref: 58809207a7b66c1bce3b4da3bbb3998dddc07bde
+      ref: e4a5762228b04f106b40dc0905e70e4b1a4a86c5
   oyun_raket_duellosu:
     git:
       url: https://github.com/taktemurr-ops/oyun-raket-duellosu
-      ref: 7d438230296b2410c8e37501e6ff444c8eb09de1
+      ref: 0da1e9bf684e1afa9f17b8b8e5b6546971452b2f
   oyun_labirent_kovalamaca:
     git:
       url: https://github.com/taktemurr-ops/oyun-labirent-kovalamaca
-      ref: c30075db390d4c80758784ed302160c7c4925f55
+      ref: 5a5560db54c9ce21aa23ff745f51525f4e8acbf4
   oyun_kirkayak:
     git:
       url: https://github.com/taktemurr-ops/oyun-kirkayak
-      ref: f2c845a3c75f88804058fd19da947294afb64578
+      ref: 72428ee04dd4b56d2598988d4b7813839287194c
   oyun_fuze_savunmasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-fuze-savunmasi
-      ref: 817253317a8971e38d15762d951371d7fed45e51
+      ref: 158252fe7d2425600747f7761c651fd63f4a4889
   oyun_tank_savasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-tank-savasi
-      ref: 44478bbcf5602b06e88c519b39478ffc102278cd
+      ref: 06b19faab373b08e385e8f32ca7c7ae619bcbbd4
   oyun_mermi_yagmuru:
     git:
       url: https://github.com/taktemurr-ops/oyun-mermi-yagmuru
-      ref: 07985063896519b160cc115f1d0f9e26b482906e
+      ref: 9040db4fe761cd47bf1b608b8c6bf1c5f6ffd520
   oyun_pinbol:
     git:
       url: https://github.com/taktemurr-ops/oyun-pinbol
-      ref: a7dea4307412c13a88eaeb2c647b6bd0992d0e2f
+      ref: 43a4fab806a8d8ca7e9f5056d946637937e6ea09
   oyun_sonsuz_kosu:
     git:
       url: https://github.com/taktemurr-ops/oyun-sonsuz-kosu
-      ref: 425b40ed51c1110641279d9b66de13e7066ff6b3
+      ref: f13c687b3b8b415496dbd5df7cdaa8b6fcaf3923
   oyun_dinozor_kosusu:
     git:
       url: https://github.com/taktemurr-ops/oyun-dinozor-kosusu
-      ref: a402e3885e921f3a6bc0029bb3a9a0d5cb077a87
+      ref: a4e14d522620ad0c808493fe4d0af818b6ad4715
   oyun_kaykay_sorf_kosusu:
     git:
       url: https://github.com/taktemurr-ops/oyun-kaykay-sorf-kosusu
-      ref: 3ca47c460af79e6e92bb8d5446b6e1518ae04f7e
+      ref: 208961538cfc80d6cdcc79d038c4c320444da871
   oyun_sonsuz_ziplama:
     git:
       url: https://github.com/taktemurr-ops/oyun-sonsuz-ziplama
-      ref: 465e987c35071569c3e55936a51a3185b2fefa5f
+      ref: dbbc1bd837cb8e70dc5781debe212634dcccf534
   oyun_kanat_cirpma:
     git:
       url: https://github.com/taktemurr-ops/oyun-kanat-cirpma
-      ref: cbd15a76b7ccc0e8664ef3187467c5c8286a2b93
+      ref: 01c5d857c77798631ce70e9b6586acaf1e7f0429
   oyun_kagit_ucak_suzulme:
     git:
       url: https://github.com/taktemurr-ops/oyun-kagit-ucak-suzulme
-      ref: 0f04f200df86dcc80c06bc0b1e057a5782161712
+      ref: 201bcae3427732bf601ae5a27ed2e419d762fc47
   oyun_platform_oyunu:
     git:
       url: https://github.com/taktemurr-ops/oyun-platform-oyunu
-      ref: 1d3a55041c10b9754bbb0d89243d50fa828c1f29
+      ref: acd000e39d20d77eff4c2bc6f8413e097533dcf3
   oyun_kos_ve_ates_et:
     git:
       url: https://github.com/taktemurr-ops/oyun-kos-ve-ates-et
-      ref: 8d2638c3ba06187c99d9459d15e43ad4b9603862
+      ref: 9c517694b937f33c2165d44dfea7cbd3fbc17b61
   oyun_yol_gecme:
     git:
       url: https://github.com/taktemurr-ops/oyun-yol-gecme
-      ref: e294959d301d58b16653b0fb597e7c7246bd1045
+      ref: dc52e272781e64c18b0e9f496a10460a94a92684
   oyun_kayak_slalom:
     git:
       url: https://github.com/taktemurr-ops/oyun-kayak-slalom
-      ref: e7424da8792a55620fd4a5c763e6ae8c50643ef7
+      ref: 6fa9d087d073cef4453d9ec3627bb11d4eaf35f0
   oyun_helezon_dusus:
     git:
       url: https://github.com/taktemurr-ops/oyun-helezon-dusus
-      ref: 17138571772d08b4f8360037803ffc48db0ceb97
+      ref: 9cced27d4487591aa7e145e600fc0d2cf0d753db
   oyun_renk_gecisi:
     git:
       url: https://github.com/taktemurr-ops/oyun-renk-gecisi
-      ref: c15ee4cf911fc60b94f4de2de3896e0770c4ac26
+      ref: ed11c4817d10e27d8bca35160f73bc11ed2d0778
   oyun_mini_golf:
     git:
       url: https://github.com/taktemurr-ops/oyun-mini-golf
-      ref: 6e196096a8d43b5ee583f4fffd075517b0d8b72b
+      ref: 1e643456b4375b8446d793916a8067a55f283702
   oyun_bowling:
     git:
       url: https://github.com/taktemurr-ops/oyun-bowling
-      ref: 40b2bcfa6dff39aa0ec54c2373ef7d31d22d80bb
+      ref: 47049660c0f51d7941756c59f86dea1fd75f2ca9
   oyun_basketbol_atisi:
     git:
       url: https://github.com/taktemurr-ops/oyun-basketbol-atisi
-      ref: ac9cfaa13d0a7aa73611e455d86df81710e8f99b
+      ref: 416d9936983bff531a6c10ac491ae8694df57f88
   oyun_penalti_atisi:
     git:
       url: https://github.com/taktemurr-ops/oyun-penalti-atisi
-      ref: 14f5092d6445dab45e134b0d6cd643b7f519b2d0
+      ref: a959afc22ef6707abc66c31900b567b463068771
   oyun_dart:
     git:
       url: https://github.com/taktemurr-ops/oyun-dart
-      ref: 844a5b021253f0f7a198d37d71e435054655d008
+      ref: 1330848f61427a98512ddf72ae05490354ee3804
   oyun_okculuk:
     git:
       url: https://github.com/taktemurr-ops/oyun-okculuk
-      ref: 03334e1c8f7c5364b9c121cb91fc116b4758f904
+      ref: e83e34e8f51d3bbf86d9cacfd926ce70d7ded888
   oyun_parmak_futbolu:
     git:
       url: https://github.com/taktemurr-ops/oyun-parmak-futbolu
-      ref: b2af4277a778d5804f0a83932afad0e78d9ccdc8
+      ref: a1aaadbc6c0bbd0c6b19fabbe57c6408b77e3b6c
   oyun_tenis:
     git:
       url: https://github.com/taktemurr-ops/oyun-tenis
-      ref: 1627bbec250cc37bfedeca046b9f58e6974376e7
+      ref: 0c9e15dc0a942644f4533d93f733dfef1940d9e9
   oyun_voleybol:
     git:
       url: https://github.com/taktemurr-ops/oyun-voleybol
-      ref: 347cf52fc5c0e2ff8753bc43a9b259882b1c908a
+      ref: 076df3679ad2b1126062629f806f953eca9cde08
   oyun_hava_hokeyi:
     git:
       url: https://github.com/taktemurr-ops/oyun-hava-hokeyi
@@ -162,35 +162,35 @@ dependencies:
   oyun_balon_patlatma:
     git:
       url: https://github.com/taktemurr-ops/oyun-balon-patlatma
-      ref: 1436690cbf1d22f0c06d19569a51abafaa06bac9
+      ref: 4681b77aecadf13134cb53775a57fa150013ce44
   oyun_meyve_kesme:
     git:
       url: https://github.com/taktemurr-ops/oyun-meyve-kesme
-      ref: 27a4cd19f9382db57023fde429b408c46d29eacf
+      ref: b59ba2eb7c2bb9c4fdb5ba46d7bf4a30594846d2
   oyun_kostebek_vurma:
     git:
       url: https://github.com/taktemurr-ops/oyun-kostebek-vurma
-      ref: f8f46cdfc794cc926526254ca8dad05856912408
+      ref: 6f9e9ff0c117e084a95128be08c48f1add0b7a5c
   oyun_refleks_testi:
     git:
       url: https://github.com/taktemurr-ops/oyun-refleks-testi
-      ref: 967791bf0d5d96a73541539cc4f1881fb53d4caa
+      ref: e7428a81e40b1b52fa374516e386c879a21deeec
   oyun_nisan_antrenmani:
     git:
       url: https://github.com/taktemurr-ops/oyun-nisan-antrenmani
-      ref: e1dcb3a22a1dc9ae0ae61da82d1c8dc7d3fa1506
+      ref: c4bc599e2a7b7602a983293bc546a2b285ecf87e
   oyun_atis_galerisi:
     git:
       url: https://github.com/taktemurr-ops/oyun-atis-galerisi
-      ref: 8a1ce25826a48e52eda2c8e4fb99ca9197ee8f30
+      ref: 1b68c41f1de9614bb71d463c1ede52ba62a34611
   oyun_bicak_firlatma:
     git:
       url: https://github.com/taktemurr-ops/oyun-bicak-firlatma
-      ref: 40b4c18f029f8b88c269474a69c1a5d4df82902a
+      ref: b1b12d4008edd5d35152f4c2daa19d8e8ad688f9
   oyun_kule_kurma:
     git:
       url: https://github.com/taktemurr-ops/oyun-kule-kurma
-      ref: 87172e39faacb1b07a58543bfe2a555fb3ae8c00
+      ref: 99e0475239a8585024bb8ae005603bb832e5a591
   oyun_blok_kule_dengesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-kule-dengesi
@@ -198,75 +198,75 @@ dependencies:
   oyun_hiper_gundelik_mekanik_paketi:
     git:
       url: https://github.com/taktemurr-ops/oyun-hiper-gundelik-mekanik-paketi
-      ref: 614e3622d5364fd122e9a8e81437e6bee8dd3890
+      ref: 6560a844697ebebf533da4531f7f7d9c7be5c1b9
   oyun_balik_tutma:
     git:
       url: https://github.com/taktemurr-ops/oyun-balik-tutma
-      ref: 632b7e40c193238ced21478ee8006eeb8d27964f
+      ref: a071fae827a6b31fa78a0542e228be723fc62fee
   oyun_sapan_atisi:
     git:
       url: https://github.com/taktemurr-ops/oyun-sapan-atisi
-      ref: 437cfc445e61a18c3d11bc2aecbc1586697e5235
+      ref: 2e77ed21b74fd63fd6b83806d46e5e06a2441cbc
   oyun_topcu_duellosu:
     git:
       url: https://github.com/taktemurr-ops/oyun-topcu-duellosu
-      ref: 504e7b27a2a099a51879af94b5b20b233bd9347f
+      ref: ab06ff7fc695d7a5adc1a3e5349b428789777545
   oyun_ip_kesme:
     git:
       url: https://github.com/taktemurr-ops/oyun-ip-kesme
-      ref: 476851cf79b8b2551e1465e2157fdcdfef934e2a
+      ref: e5ae521f9d26fb7f992e354b1ebd36ba0319e4a2
   oyun_egik_labirent:
     git:
       url: https://github.com/taktemurr-ops/oyun-egik-labirent
-      ref: cd461b5c91d3be372fa18127460633fbe02b078d
+      ref: 160f2ed384d213828364565744a8ec3dadee1c86
   oyun_ay_a_inis:
     git:
       url: https://github.com/taktemurr-ops/oyun-ay-a-inis
-      ref: 14dc516a690c2e4e3cd2cc5ac1dfb6d934dd6786
+      ref: 3e1620d59834235f36287c857e1c62db79dc957b
   oyun_delik_buyutme:
     git:
       url: https://github.com/taktemurr-ops/oyun-delik-buyutme
-      ref: 6fa01fb254ae0200383bc999738f72b68b980761
+      ref: b846acda2130ff53c0a09ddd6975d37648f15ee1
   oyun_ustten_yaris:
     git:
       url: https://github.com/taktemurr-ops/oyun-ustten-yaris
-      ref: d031c51bd4c8c7d2a0325e24d866abed5ab4fddb
+      ref: 4a1377416ec789d5faacdaa5340f2649867461bd
   oyun_2b_park_etme:
     git:
       url: https://github.com/taktemurr-ops/oyun-2b-park-etme
-      ref: eb6ac3d0a2c5dd2a96b331d342c2e68cc873f277
+      ref: 4254f2c473567716b053f3ebf6dcaa744c95d2f3
   oyun_alan_kapma:
     git:
       url: https://github.com/taktemurr-ops/oyun-alan-kapma
-      ref: d4e12c66d6f4e1b2d47890d0fc3f11dccc8cb72c
+      ref: 0686e31d6251d490e2f683a0e7790cba5b8bb4f7
   oyun_yilan_io:
     git:
       url: https://github.com/taktemurr-ops/oyun-yilan-io
-      ref: de0a5c8f0648dc75745c3a41ac5f819db8bc6556
+      ref: 4deea91a8c267baffadd064642e97cea25a820d1
   oyun_isik_motoru:
     git:
       url: https://github.com/taktemurr-ops/oyun-isik-motoru
-      ref: 7b9ff13b880a5b9cdb02f6b804b69aaa4b2c39a9
+      ref: a7aa025276264b9d4fc0eb9ead22ef1cc74d359a
   oyun_bomba_labirenti:
     git:
       url: https://github.com/taktemurr-ops/oyun-bomba-labirenti
-      ref: 8f6bbbda59623c4c6bd6f3ac258fdf1905456c5b
+      ref: 48316ee395e5f901daa0c93da3e9f1250f888562
   oyun_kazi_kazi:
     git:
       url: https://github.com/taktemurr-ops/oyun-kazi-kazi
-      ref: 6a2fc45fbd67354c98e15bc17aa2c795af567895
+      ref: a86ca7b7de516352f5b4adc311b47cb93dad592e
   oyun_kaya_dusmesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-kaya-dusmesi
-      ref: abfe874578cd9359ad46693ea3614fc045df0fb8
+      ref: c6cb094265218ab92ab7a868925a2bce4ba6e95b
   oyun_yolcu_yonlendirme:
     git:
       url: https://github.com/taktemurr-ops/oyun-yolcu-yonlendirme
-      ref: 6920c72ea32c27b49c92d624bc54ce0e1977015d
+      ref: b0e3d2f388cd070a49275f915c5d4483c85ac843
   oyun_kule_savunmasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-kule-savunmasi
-      ref: 4474812a5ed497c91564ca72962ccd93f47955f3
+      ref: 12d9071bc5fa2049a6c7071ba46d060e459afa07
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -284,7 +284,7 @@ dependency_overrides:
   arcade_motoru:
     git:
       url: https://github.com/taktemurr-ops/arcade-motoru
-      ref: 941f4f4c60a0d23a2f8bd4afeed3e8f0d43e82ef
+      ref: 056d3c240d7716095a5121d9e38729808215e2a7
 
 dev_dependencies:
   flutter_test:
