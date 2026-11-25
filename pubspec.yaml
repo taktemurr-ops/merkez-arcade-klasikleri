@@ -194,7 +194,7 @@ dependencies:
   oyun_denge_kulesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-denge-kulesi
-      ref: main
+      ref: 2eed7601ef39243450db684c72c3cb98bff9c910
   oyun_hiper_gundelik_mekanik_paketi:
     git:
       url: https://github.com/taktemurr-ops/oyun-hiper-gundelik-mekanik-paketi
