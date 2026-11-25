@@ -62,7 +62,10 @@ import 'package:oyun_yilan/oyun_yilan.dart';
 import 'package:oyun_yilan_io/oyun_yilan_io.dart';
 import 'package:oyun_yol_gecme/oyun_yol_gecme.dart';
 import 'package:oyun_yolcu_yonlendirme/oyun_yolcu_yonlendirme.dart';
+import 'package:studio_core/app/approved_hub.dart';
 import 'package:studio_core/app/hub.dart';
+
+import 'approved_style.dart';
 
 /// Arcade Klasikleri: klasik arcade, koş-zıpla, spor, beceri-refleks,
 /// fizik-nişan ve labirent-rakip oyunlarını tek uygulamada toplar.
@@ -502,4 +505,4 @@ final hubConfig = HubConfig(
   ],
 );
 
-void main() => bootstrapHub(hubConfig);
+void main() => bootstrapApprovedHub(hubConfig, approvedStyle);

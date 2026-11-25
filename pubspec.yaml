@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 921df6392b2121ffd438a286673ef9f10c988273
+      ref: 782e05b0d67b349f0af0cfe9e39b2e2a81228d20
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_yilan:
     git:
@@ -280,7 +280,7 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 921df6392b2121ffd438a286673ef9f10c988273
+      ref: 782e05b0d67b349f0af0cfe9e39b2e2a81228d20
   arcade_motoru:
     git:
       url: https://github.com/taktemurr-ops/arcade-motoru
@@ -300,6 +300,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
+    - assets/approved/
     - assets/sfx/
     - assets/config/
     - assets/branding/
