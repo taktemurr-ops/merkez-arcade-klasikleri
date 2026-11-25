@@ -227,7 +227,7 @@ final hubConfig = HubConfig(
     'oyun-bowling': GameCover('ball', label: 'bowling'),
     'oyun-dart': GameCover('target'),
     'oyun-delik-buyutme': GameCover('hole'),
-    'oyun-denge-kulesi': GameCover('stack', v: 5),
+    'oyun-denge-kulesi': GameCover('balance'),
     'oyun-dinozor-kosusu': GameCover('runner'),
     'oyun-egik-labirent': GameCover('maze', v: 1),
     'oyun-fuze-savunmasi': GameCover('missile'),
