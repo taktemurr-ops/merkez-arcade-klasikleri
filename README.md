@@ -48,7 +48,7 @@ Arcade ailesinin **merkez uygulaması**: 63 oyunu tek mağaza uygulamasında top
 | Atış Galerisi | [oyun-atis-galerisi](https://github.com/taktemurr-ops/oyun-atis-galerisi) |
 | Bıçak Fırlatma | [oyun-bicak-firlatma](https://github.com/taktemurr-ops/oyun-bicak-firlatma) |
 | Kule Kurma | [oyun-kule-kurma](https://github.com/taktemurr-ops/oyun-kule-kurma) |
-| Denge Kulesi | [oyun-blok-kule-dengesi](https://github.com/taktemurr-ops/oyun-blok-kule-dengesi) |
+| Denge Kulesi | [oyun-denge-kulesi](https://github.com/taktemurr-ops/oyun-denge-kulesi) |
 | Tek Dokunuş Paketi | [oyun-hiper-gundelik-mekanik-paketi](https://github.com/taktemurr-ops/oyun-hiper-gundelik-mekanik-paketi) |
 | Balık Tutma | [oyun-balik-tutma](https://github.com/taktemurr-ops/oyun-balik-tutma) |
 | Sapan Atışı | [oyun-sapan-atisi](https://github.com/taktemurr-ops/oyun-sapan-atisi) |

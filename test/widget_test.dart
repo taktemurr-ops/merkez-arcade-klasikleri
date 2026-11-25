@@ -49,7 +49,7 @@ void main() {
       'oyun-atis-galerisi',
       'oyun-bicak-firlatma',
       'oyun-kule-kurma',
-      'oyun-blok-kule-dengesi',
+      'oyun-denge-kulesi',
       'oyun-hiper-gundelik-mekanik-paketi',
       'oyun-balik-tutma',
       'oyun-sapan-atisi',

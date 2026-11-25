@@ -9,11 +9,11 @@ import 'package:oyun_balon_patlatma/oyun_balon_patlatma.dart';
 import 'package:oyun_basketbol_atisi/oyun_basketbol_atisi.dart';
 import 'package:oyun_bicak_firlatma/oyun_bicak_firlatma.dart';
 import 'package:oyun_bilardo/oyun_bilardo.dart';
-import 'package:oyun_blok_kule_dengesi/oyun_blok_kule_dengesi.dart';
 import 'package:oyun_bomba_labirenti/oyun_bomba_labirenti.dart';
 import 'package:oyun_bowling/oyun_bowling.dart';
 import 'package:oyun_dart/oyun_dart.dart';
 import 'package:oyun_delik_buyutme/oyun_delik_buyutme.dart';
+import 'package:oyun_denge_kulesi/oyun_denge_kulesi.dart';
 import 'package:oyun_dinozor_kosusu/oyun_dinozor_kosusu.dart';
 import 'package:oyun_egik_labirent/oyun_egik_labirent.dart';
 import 'package:oyun_fuze_savunmasi/oyun_fuze_savunmasi.dart';
@@ -189,7 +189,7 @@ final hubConfig = HubConfig(
     galeriConfig,
     bicakConfig,
     kuleConfig,
-    kuleDengesiConfig,
+    dengeConfig,
     hiperConfig,
     balikConfig,
     sapanConfig,
@@ -223,11 +223,11 @@ final hubConfig = HubConfig(
     'oyun-basketbol-atisi': GameCover('ball', label: 'basket'),
     'oyun-bicak-firlatma': GameCover('knife'),
     'oyun-bilardo': GameCover('pool'),
-    'oyun-blok-kule-dengesi': GameCover('blocks', v: 2),
     'oyun-bomba-labirenti': GameCover('bomb'),
     'oyun-bowling': GameCover('ball', label: 'bowling'),
     'oyun-dart': GameCover('target'),
     'oyun-delik-buyutme': GameCover('hole'),
+    'oyun-denge-kulesi': GameCover('stack', v: 5),
     'oyun-dinozor-kosusu': GameCover('runner'),
     'oyun-egik-labirent': GameCover('maze', v: 1),
     'oyun-fuze-savunmasi': GameCover('missile'),
@@ -427,7 +427,7 @@ final hubConfig = HubConfig(
           'Kỹ năng và phản xạ',
           'Galing at reflex',
         ],
-        ids: ['oyun-balon-patlatma', 'oyun-meyve-kesme', 'oyun-kostebek-vurma', 'oyun-refleks-testi', 'oyun-nisan-antrenmani', 'oyun-atis-galerisi', 'oyun-bicak-firlatma', 'oyun-kule-kurma', 'oyun-blok-kule-dengesi', 'oyun-hiper-gundelik-mekanik-paketi', 'oyun-balik-tutma']),
+        ids: ['oyun-balon-patlatma', 'oyun-meyve-kesme', 'oyun-kostebek-vurma', 'oyun-refleks-testi', 'oyun-nisan-antrenmani', 'oyun-atis-galerisi', 'oyun-bicak-firlatma', 'oyun-kule-kurma', 'oyun-denge-kulesi', 'oyun-hiper-gundelik-mekanik-paketi', 'oyun-balik-tutma']),
     HubSection(
         title: [
           'Fizik ve nişan',

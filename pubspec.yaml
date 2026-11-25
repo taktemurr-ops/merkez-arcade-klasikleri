@@ -191,10 +191,10 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-kule-kurma
       ref: 2461c0e307fc227f804ea6474e38c3e9b888c789
-  oyun_blok_kule_dengesi:
+  oyun_denge_kulesi:
     git:
-      url: https://github.com/taktemurr-ops/oyun-blok-kule-dengesi
-      ref: 3860f44ca467d8ee50ba800fae47919cc382fda9
+      url: https://github.com/taktemurr-ops/oyun-denge-kulesi
+      ref: main
   oyun_hiper_gundelik_mekanik_paketi:
     git:
       url: https://github.com/taktemurr-ops/oyun-hiper-gundelik-mekanik-paketi
