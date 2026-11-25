@@ -1,0 +1,18 @@
+A(z) Arcade klasszikusok 63 arcade játékot egyesít egy alkalmazásban, saját dizájnnal. Klasszikus arcade, futás és ugrás, sport, ügyesség és reflex, fizika és célzás, labirintus és rivális; minden játék saját haladással, küldetésekkel és eredményekkel.
+
+• Klasszikus arcade: Kígyó, Téglatörő, Űrlövöldözés, Égi betolakodók, Sziklarobbantó, Ütőpárbaj, Labirintus-hajsza, Kerti százlábú, Meteorvédelem, Tankcsata, Golyózápor, Flipper
+• Fuss és ugorj: Végtelen futás, Dinóroham, Gördeszkás roham, Pattogó roham, Szárnycsapás, Papírrepülő, Platformkaland, Fuss és lőj, Úttaposó, Síszlalom, Spirálzuhanás, Színátjáró
+• Sport: Minigolf, Bowling, Kosárra dobás, Tizenegyes, Darts, Íjászat, Ujjfoci, Tenisz, Strandröplabda, Léghoki, Biliárd, Asztalitenisz
+• Ügyesség és reflex: Lufipukkasztó, Gyümölcsszeletelő, Vakondütő, Reflexteszt, Célzásgyakorló, Céllövölde, Késdobálás, Toronyépítő, Egyensúlytorony, Egyérintéses csomag, Nyugodt horgászat
+• Fizika és célzás: Csúzli, Tüzérpárbaj, Kötélvágó, Billenő labirintus, Holdraszállás, Növekvő lyuk, Felülnézetes verseny, 2D parkolás
+• Labirintusok és riválisok: Területfoglaló, Kígyóaréna, Fénymotorok, Bombalabirintus, Áss mélyre, Kőomlás-bánya, Vándorkalauz, Toronyvédelem
+
+Kiemelt
+• Játékonként 100 000 pálya; a tempó és a nehézség lépésről lépésre nő, és egy MI minden pályát végigjátszik, hogy bizonyítsa: teljesíthető.
+• Tíz nehézségi fokozat: nyugodt kezdés, később szakértői kihívások.
+• Két erősítő, pajzs és lassítás, és esély a folytatásra vereség után.
+• Napi és heti pályák, küldetések, eredmények és 33 nyelv.
+• Offline játszható telefonon, tableten és weben.
+• Nincs szerencsejáték, fogadás vagy 18+ tartalom; minden korosztálynak.
+
+A vásárlások (pl. reklámmentesség) az alkalmazás minden játékára érvényesek.

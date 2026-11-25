@@ -1,0 +1,18 @@
+Klasik Arcade menghimpun 63 game arcade dalam satu aplikasi dengan desain orisinal kami. Arcade klasik, lari dan lompat, olahraga, keterampilan dan refleks, fisika dan bidik, labirin dan lawan; setiap game punya progres, misi, dan pencapaian sendiri.
+
+• Arcade klasik: Ular, Pemecah Bata, Penembak Angkasa, Penyerbu Langit, Penghancur Batu, Duel Raket, Kejar-Kejaran Labirin, Kelabang Kebun, Pertahanan Meteor, Pertempuran Tank, Hujan Peluru, Pinbal
+• Lari dan lompat: Lari Tanpa Henti, Lari Dino, Lari Skateboard, Pantul Tanpa Henti, Kepak Sayap, Pesawat Kertas, Petualangan Platform, Lari dan Tembak, Seberang Jalan, Slalom Ski, Jatuh Spiral, Lintas Warna
+• Olahraga: Golf Mini, Boling, Tembakan Basket, Tendangan Penalti, Dart, Panahan, Sepak Bola Jari, Tenis, Voli Pantai, Air hockey, Biliar, Tenis meja
+• Keterampilan dan refleks: Pecahkan Balon, Potong Buah, Pukul Tikus Tanah, Tes Refleks, Latihan Bidik, Galeri Tembak, Lempar Pisau, Menara Tumpuk, Menara Seimbang, Paket Sekali Ketuk, Memancing Santai
+• Fisika dan bidikan: Ketapel, Duel Artileri, Potong Tali, Labirin Miring, Pendaratan Bulan, Lubang Membesar, Balap Tampak Atas, Parkir 2D
+• Labirin dan lawan: Rebut Wilayah, Arena Ular, Motor Cahaya, Labirin Bom, Gali Dalam, Tambang Batu Jatuh, Pemandu Pejalan, Pertahanan Menara
+
+Sorotan
+• 100.000 level per game; kecepatan dan kesulitan naik bertahap, dan AI memainkan setiap level untuk membuktikan bisa diselesaikan.
+• Sepuluh tingkat kesulitan: santai di awal, tantangan ahli di akhir.
+• Dua penguat, perisai dan gerak lambat, plus kesempatan melanjutkan setelah kalah.
+• Level harian dan mingguan, misi, pencapaian, dan 33 bahasa.
+• Bisa dimainkan offline di ponsel, tablet, dan web.
+• Tanpa judi, taruhan, atau konten 18+; cocok untuk semua usia.
+
+Pembelian (seperti hapus iklan) berlaku untuk semua permainan di aplikasi.

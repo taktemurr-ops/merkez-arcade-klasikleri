@@ -1,0 +1,18 @@
+Arcade Klasikleri, 63 arcade oyununu stüdyonun kendine özgü tasarımıyla tek uygulamada toplar. Klasik arcade, koş ve zıpla, spor, beceri ve refleks, fizik ve nişan, labirent ve rakip oyunları; her oyunun ilerlemesi, görevleri ve başarımları ayrıdır.
+
+• Klasik arcade: Yılan, Tuğla Kırma, Uzay Atışı, Uzay İstilacıları, Asteroit Avcısı, Raket Düellosu, Labirent Kovalamaca, Kırkayak, Göktaşı Savunması, Tank Savaşı, Mermi Yağmuru, Pinbol
+• Koş ve zıpla: Sonsuz Koşu, Dinozor Koşusu, Kaykay Koşusu, Sonsuz Zıplama, Kanat Çırpma, Kâğıt Uçak, Platform Macerası, Koş ve Ateş Et, Yol Geçme, Kayak Slalom, Helezon Düşüş, Renk Geçişi
+• Spor: Mini Golf, Bowling, Basketbol Atışı, Penaltı Atışı, Dart, Okçuluk, Parmak Futbolu, Tenis, Plaj Voleybolu, Hava Hokeyi, Bilardo, Masa Tenisi
+• Beceri ve refleks: Balon Patlatma, Meyve Kesme, Köstebek Vurma, Refleks Testi, Nişan Antrenmanı, Atış Galerisi, Bıçak Fırlatma, Kule Kurma, Denge Kulesi, Tek Dokunuş Paketi, Balık Tutma
+• Fizik ve nişan: Sapan Atışı, Topçu Düellosu, İp Kesme, Eğik Labirent, Ay’a İniş, Delik Büyütme, Üstten Yarış, 2B Park Etme
+• Labirent ve rakipler: Alan Kapma, Yılan Arenası, Işık Motoru, Bomba Labirenti, Kazı Kazı, Kaya Düşmesi, Yolcu Yönlendirme, Kule Savunması
+
+Öne çıkanlar
+• Oyun başına 100.000 bölüm; hız ve zorluk adım adım artar, her bölüm yapay zekâ tarafından oynanarak geçilebilir olduğu denetlenir.
+• On zorluk basamağı: ilk bölümlerde rahat, ileride ustalara göre.
+• İki güçlendirici: kalkan ve ağır çekim; oyun bitince devam etme hakkı.
+• Günlük ve haftalık bölümler, görevler, başarımlar ve 33 dil.
+• İnternetsiz oynanır; telefon, tablet ve webde çalışır.
+• Kumar, bahis veya 18+ içerik yoktur; tüm yaşlar için uygundur.
+
+Satın alımlar (ör. reklamsız) uygulamadaki tüm oyunlarda geçerlidir.

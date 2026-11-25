@@ -1,0 +1,18 @@
+Klasyka arcade łączy 63 gier arcade w jednej aplikacji, z naszym własnym projektem. Klasyka, bieganie i skakanie, sport, zręczność i refleks, fizyka i celność, labirynty i rywale; każda gra ma własne postępy, misje i osiągnięcia.
+
+• Klasyczne arcade: Wąż, Rozbijacz cegieł, Kosmiczna strzelanka, Najeźdźcy z nieba, Kruszyciel skał, Pojedynek paletek, Pościg w labiryncie, Ogrodowa stonoga, Obrona przed meteorami, Bitwa czołgów, Grad pocisków, Pinball
+• Biegnij i skacz: Bieg bez końca, Bieg dinozaura, Deskorolkowy pęd, Skacząca piłka, Machaj skrzydłami, Papierowy samolot, Platformowa przygoda, Biegnij i strzelaj, Przez ulicę, Slalom narciarski, Spiralny spadek, Kolorowe przejście
+• Sport: Minigolf, Kręgle, Rzut do kosza, Rzut karny, Rzutki, Łucznictwo, Piłka palcowa, Tenis, Siatkówka plażowa, Cymbergaj, Bilard, Tenis stołowy
+• Zręczność i refleks: Przebij balony, Krojenie owoców, Uderz kreta, Test refleksu, Trening celności, Strzelnica, Rzut nożami, Wieża z klocków, Wieża Równowagi, Pakiet jednego dotyku, Spokojne wędkowanie
+• Fizyka i celność: Proca, Pojedynek artyleryjski, Przetnij linę, Labirynt z przechyłem, Lądowanie na Księżycu, Rosnąca dziura, Wyścig z góry, Parkowanie 2D
+• Labirynty i rywale: Zdobywanie terenu, Arena węży, Świetlne motocykle, Bombowy labirynt, Kop głęboko, Kopalnia lawin, Przewodnik wędrowców, Obrona wieżami
+
+Najważniejsze
+• 100 000 poziomów w każdej grze; tempo i trudność rosną stopniowo, a SI przechodzi każdy poziom, by udowodnić, że da się go ukończyć.
+• Dziesięć stopni trudności: spokojny początek, wyzwania dla ekspertów później.
+• Dwa wzmocnienia, tarcza i spowolnienie, oraz szansa kontynuacji po przegranej.
+• Poziomy dzienne i tygodniowe, zadania, osiągnięcia i 33 języki.
+• Gra offline na telefonie, tablecie i w przeglądarce.
+• Bez hazardu, zakładów i treści 18+; dla każdego wieku.
+
+Zakupy (np. brak reklam) obowiązują we wszystkich grach w aplikacji.
