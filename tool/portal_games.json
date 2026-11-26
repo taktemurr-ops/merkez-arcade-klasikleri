@@ -1,0 +1,17 @@
+[
+  {
+    "id": "oyun-yilan",
+    "config": "yilanConfig",
+    "title": "Snake"
+  },
+  {
+    "id": "oyun-tugla-kirma",
+    "config": "tuglaConfig",
+    "title": "Brick Breaker"
+  },
+  {
+    "id": "oyun-dinozor-kosusu",
+    "config": "dinozorConfig",
+    "title": "Dino Run"
+  }
+]
