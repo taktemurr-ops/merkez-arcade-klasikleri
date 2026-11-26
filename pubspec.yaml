@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: edccf463a8d215124d83bcd075bcd8b47966fe29
+      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_yilan:
     git:
@@ -150,15 +150,15 @@ dependencies:
   oyun_hava_hokeyi:
     git:
       url: https://github.com/taktemurr-ops/oyun-hava-hokeyi
-      ref: 3345d3d7eed3809c4eeeec122eea696b6f2d09bb
+      ref: 4b3c3b373f272058f372165a54b26d4e1a60c7d7
   oyun_bilardo:
     git:
       url: https://github.com/taktemurr-ops/oyun-bilardo
-      ref: 232b1220859921b3f7aba69b48ed4fe1bbea96b8
+      ref: 09fa6af633cc616de2cd7b373cd0a109d2a9a424
   oyun_masa_tenisi:
     git:
       url: https://github.com/taktemurr-ops/oyun-masa-tenisi
-      ref: 4a7e3adc2fcc040811ede15bdb195f4c42d14ed5
+      ref: 23eaaf1577ab96a1fb766ee6d2e4b9e6613e294e
   oyun_balon_patlatma:
     git:
       url: https://github.com/taktemurr-ops/oyun-balon-patlatma
@@ -280,7 +280,7 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: edccf463a8d215124d83bcd075bcd8b47966fe29
+      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
   arcade_motoru:
     git:
       url: https://github.com/taktemurr-ops/arcade-motoru
