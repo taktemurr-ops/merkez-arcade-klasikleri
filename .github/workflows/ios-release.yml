@@ -84,13 +84,6 @@ jobs:
       REPO_ROOT: ${{ github.workspace }}
       VERSION_CODE: ${{ needs.gate.outputs.code }}
       VERSION_NAME: ${{ needs.gate.outputs.name }}
-      APPLE_TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
-      APP_STORE_CONNECT_API_KEY_ID: ${{ secrets.APP_STORE_CONNECT_API_KEY_ID }}
-      APP_STORE_CONNECT_ISSUER_ID: ${{ secrets.APP_STORE_CONNECT_ISSUER_ID }}
-      APP_STORE_CONNECT_API_KEY_P8: ${{ secrets.APP_STORE_CONNECT_API_KEY_P8 }}
-      IOS_DIST_CERT_P12_BASE64: ${{ secrets.IOS_DIST_CERT_P12_BASE64 }}
-      IOS_DIST_CERT_PASSWORD: ${{ secrets.IOS_DIST_CERT_PASSWORD }}
-      IOS_PROVISIONING_PROFILE_BASE64: ${{ secrets.IOS_PROVISIONING_PROFILE_BASE64 }}
       FASTLANE_SKIP_UPDATE_CHECK: "1"
       FASTLANE_HIDE_CHANGELOG: "1"
     steps:
@@ -143,6 +136,15 @@ jobs:
           FB_KEY: ${{ secrets.FIREBASE_API_KEY }}
           FB_SENDER: ${{ secrets.FIREBASE_SENDER_ID }}
           FB_IOS: ${{ secrets.FIREBASE_IOS_APP_ID }}
+          PV_URL: ${{ secrets.PURCHASE_VERIFY_URL }}
+          # Apple anahtarları yalnızca fastlane adımlarında.
+          APPLE_TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
+          APP_STORE_CONNECT_API_KEY_ID: ${{ secrets.APP_STORE_CONNECT_API_KEY_ID }}
+          APP_STORE_CONNECT_ISSUER_ID: ${{ secrets.APP_STORE_CONNECT_ISSUER_ID }}
+          APP_STORE_CONNECT_API_KEY_P8: ${{ secrets.APP_STORE_CONNECT_API_KEY_P8 }}
+          IOS_DIST_CERT_P12_BASE64: ${{ secrets.IOS_DIST_CERT_P12_BASE64 }}
+          IOS_DIST_CERT_PASSWORD: ${{ secrets.IOS_DIST_CERT_PASSWORD }}
+          IOS_PROVISIONING_PROFILE_BASE64: ${{ secrets.IOS_PROVISIONING_PROFILE_BASE64 }}
         run: |
           DEFS="--dart-define=APP_VERSION=$VERSION_NAME"
           if [ -n "$FB_PROJECT" ]; then
@@ -150,6 +152,7 @@ jobs:
           fi
           if [ -n "$AD_INT" ]; then DEFS="$DEFS --dart-define=ADMOB_IOS_INTERSTITIAL=$AD_INT"; fi
           if [ -n "$AD_REW" ]; then DEFS="$DEFS --dart-define=ADMOB_IOS_REWARDED=$AD_REW"; fi
+          if [ -n "$PV_URL" ]; then DEFS="$DEFS --dart-define=PURCHASE_VERIFY_URL=$PV_URL"; fi
           export IOS_DART_DEFINES="$DEFS"
           fastlane ios release
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
@@ -177,4 +180,8 @@ jobs:
       - name: deliver (inceleme gönderimi yok)
         if: github.event_name != 'workflow_dispatch' || inputs.metadata
         continue-on-error: true
+        env:
+          APP_STORE_CONNECT_API_KEY_ID: ${{ secrets.APP_STORE_CONNECT_API_KEY_ID }}
+          APP_STORE_CONNECT_ISSUER_ID: ${{ secrets.APP_STORE_CONNECT_ISSUER_ID }}
+          APP_STORE_CONNECT_API_KEY_P8: ${{ secrets.APP_STORE_CONNECT_API_KEY_P8 }}
         run: fastlane ios metadata || { echo "::warning::App Store metinleri yüklenemedi (TestFlight yüklemesi tamam). Günlüğe bakın."; exit 1; }
