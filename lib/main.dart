@@ -72,6 +72,7 @@ import 'package:studio_core/app/approved_hub.dart';
 import 'package:studio_core/app/hub.dart';
 
 import 'approved_style.dart';
+import 'store_flavor.dart';
 
 /// Arcade Klasikleri: klasik arcade, koş-zıpla, spor, beceri-refleks,
 /// fizik-nişan ve labirent-rakip oyunlarını tek uygulamada toplar.
@@ -524,4 +525,7 @@ final hubConfig = HubConfig(
 /// Uygulama içi gizlilik politikası (Ayarlar → Gizlilik politikası). Mağaza kayıtlarında da aynı adres.
 const privacyUrl = 'https://github.com/taktemurr-ops/merkez-arcade-klasikleri/blob/main/PRIVACY.md';
 
-void main() => bootstrapApprovedHub(hubConfig, approvedStyle, privacyUrl: privacyUrl);
+void main() {
+  registerStoreFlavor();
+  bootstrapApprovedHub(hubConfig, approvedStyle, privacyUrl: privacyUrl);
+}
