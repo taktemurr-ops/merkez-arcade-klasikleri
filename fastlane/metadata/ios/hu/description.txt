@@ -1,10 +1,10 @@
-A(z) Arcade klasszikusok 63 arcade játékot egyesít egy alkalmazásban, saját dizájnnal. Klasszikus arcade, futás és ugrás, sport, ügyesség és reflex, fizika és célzás, labirintus és rivális; minden játék saját haladással, küldetésekkel és eredményekkel.
+A(z) Arcade klasszikusok 69 arcade játékot egyesít egy alkalmazásban, saját dizájnnal. Klasszikus arcade, futás és ugrás, sport, ügyesség és reflex, fizika és célzás, labirintus és rivális; minden játék saját haladással, küldetésekkel és eredményekkel.
 
 • Klasszikus arcade: Kígyó, Téglatörő, Űrlövöldözés, Égi betolakodók, Sziklarobbantó, Ütőpárbaj, Labirintus-hajsza, Kerti százlábú, Meteorvédelem, Tankcsata, Golyózápor, Flipper
-• Fuss és ugorj: Végtelen futás, Dinóroham, Gördeszkás roham, Pattogó roham, Szárnycsapás, Papírrepülő, Platformkaland, Fuss és lőj, Úttaposó, Síszlalom, Spirálzuhanás, Színátjáró
-• Sport: Minigolf, Bowling, Kosárra dobás, Tizenegyes, Darts, Íjászat, Ujjfoci, Tenisz, Strandröplabda, Léghoki, Biliárd, Asztalitenisz
-• Ügyesség és reflex: Lufipukkasztó, Gyümölcsszeletelő, Vakondütő, Reflexteszt, Célzásgyakorló, Céllövölde, Késdobálás, Toronyépítő, Egyensúlytorony, Egyérintéses csomag, Nyugodt horgászat
-• Fizika és célzás: Csúzli, Tüzérpárbaj, Kötélvágó, Billenő labirintus, Holdraszállás, Növekvő lyuk, Felülnézetes verseny, 2D parkolás
+• Fuss és ugorj: Végtelen futás, Dinóroham, Gördeszkás roham, Pattogó roham, Szárnycsapás, Papírrepülő, Platformkaland, Fuss és lőj, Úttaposó, Síszlalom, Spirálzuhanás, Színátjáró, Tömegfutás
+• Sport: Minigolf, Bowling, Kosárra dobás, Tizenegyes, Darts, Íjászat, Ujjfoci, Tenisz, Strandröplabda, Léghoki, Biliárd, Asztalitenisz, Krikettütés, Tollaslabda, Kabaddi roham
+• Ügyesség és reflex: Lufipukkasztó, Gyümölcsszeletelő, Vakondütő, Reflexteszt, Célzásgyakorló, Céllövölde, Késdobálás, Toronyépítő, Egyensúlytorony, Egyérintéses csomag, Nyugodt horgászat, Sárkányeregető párbaj
+• Fizika és célzás: Csúzli, Tüzérpárbaj, Kötélvágó, Billenő labirintus, Holdraszállás, Növekvő lyuk, Felülnézetes verseny, 2D parkolás, Hegymenet
 • Labirintusok és riválisok: Területfoglaló, Kígyóaréna, Fénymotorok, Bombalabirintus, Áss mélyre, Kőomlás-bánya, Vándorkalauz, Toronyvédelem
 
 Kiemelt

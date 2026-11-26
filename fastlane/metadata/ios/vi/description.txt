@@ -1,10 +1,10 @@
-Arcade cổ điển gom 63 trò arcade vào một ứng dụng với thiết kế riêng của chúng tôi. Arcade cổ điển, chạy nhảy, thể thao, kỹ năng và phản xạ, vật lý và ngắm bắn, mê cung và đối thủ; mỗi trò có tiến độ, nhiệm vụ và thành tích riêng.
+Arcade cổ điển gom 69 trò arcade vào một ứng dụng với thiết kế riêng của chúng tôi. Arcade cổ điển, chạy nhảy, thể thao, kỹ năng và phản xạ, vật lý và ngắm bắn, mê cung và đối thủ; mỗi trò có tiến độ, nhiệm vụ và thành tích riêng.
 
 • Arcade cổ điển: Rắn săn mồi, Phá gạch, Bắn súng vũ trụ, Kẻ xâm lăng bầu trời, Phá thiên thạch, Đấu vợt, Rượt đuổi mê cung, Rết vườn, Phòng thủ thiên thạch, Trận xe tăng, Mưa đạn, Bắn bi
-• Chạy và nhảy: Chạy vô tận, Khủng long chạy, Lướt ván tốc độ, Bóng nảy bất tận, Vỗ cánh, Máy bay giấy, Phiêu lưu nền tảng, Chạy và bắn, Băng qua đường, Trượt tuyết vượt cổng, Rơi xoắn ốc, Vượt màu
-• Thể thao: Golf mini, Bowling, Ném rổ, Đá phạt đền, Phi tiêu, Bắn cung, Bóng đá ngón tay, Quần vợt, Bóng chuyền bãi biển, Khúc côn cầu trên bàn, Bi-a, Bóng bàn
-• Kỹ năng và phản xạ: Bắn bóng bay, Chém trái cây, Đập chuột chũi, Kiểm tra phản xạ, Luyện ngắm bắn, Phòng bắn bia, Phi dao, Tháp xếp chồng, Tháp Cân Bằng, Gói một chạm, Câu cá thư giãn
-• Vật lý và ngắm bắn: Súng cao su, Đấu pháo, Cắt dây, Mê cung nghiêng, Đáp xuống mặt trăng, Lỗ đen lớn dần, Đua xe góc nhìn trên, Đỗ xe 2D
+• Chạy và nhảy: Chạy vô tận, Khủng long chạy, Lướt ván tốc độ, Bóng nảy bất tận, Vỗ cánh, Máy bay giấy, Phiêu lưu nền tảng, Chạy và bắn, Băng qua đường, Trượt tuyết vượt cổng, Rơi xoắn ốc, Vượt màu, Đám đông chạy
+• Thể thao: Golf mini, Bowling, Ném rổ, Đá phạt đền, Phi tiêu, Bắn cung, Bóng đá ngón tay, Quần vợt, Bóng chuyền bãi biển, Khúc côn cầu trên bàn, Bi-a, Bóng bàn, Cú đánh Cricket, Cầu lông, Đột kích Kabaddi
+• Kỹ năng và phản xạ: Bắn bóng bay, Chém trái cây, Đập chuột chũi, Kiểm tra phản xạ, Luyện ngắm bắn, Phòng bắn bia, Phi dao, Tháp xếp chồng, Tháp Cân Bằng, Gói một chạm, Câu cá thư giãn, Thả diều đấu dây
+• Vật lý và ngắm bắn: Súng cao su, Đấu pháo, Cắt dây, Mê cung nghiêng, Đáp xuống mặt trăng, Lỗ đen lớn dần, Đua xe góc nhìn trên, Đỗ xe 2D, Leo đồi
 • Mê cung và đối thủ: Chiếm đất, Đấu trường rắn, Mô tô ánh sáng, Mê cung bom, Đào sâu, Hầm mỏ đá lở, Dẫn đường bộ hành, Thủ tháp
 
 Điểm nổi bật

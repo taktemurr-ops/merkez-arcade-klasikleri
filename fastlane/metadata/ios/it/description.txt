@@ -1,10 +1,10 @@
-Classici Arcade riunisce 63 giochi arcade in un’unica app, con il nostro design originale. Arcade classico, corsa e salti, sport, abilità e riflessi, fisica e mira, labirinti e rivali; ogni gioco ha progressi, missioni e obiettivi propri.
+Classici Arcade riunisce 69 giochi arcade in un’unica app, con il nostro design originale. Arcade classico, corsa e salti, sport, abilità e riflessi, fisica e mira, labirinti e rivali; ogni gioco ha progressi, missioni e obiettivi propri.
 
 • Arcade classico: Serpente, Spaccamattoni, Sparatutto Spaziale, Invasori del Cielo, Spaccarocce, Duello di Racchette, Inseguimento nel Labirinto, Millepiedi del Giardino, Difesa dai Meteoriti, Battaglia di Carri, Pioggia di Proiettili, Flipper
-• Corri e salta: Corsa Infinita, Corsa del Dino, Corsa in Skate, Rimbalzo Infinito, Batti le Ali, Aeroplano di Carta, Avventura a Piattaforme, Corri e Spara, Attraversa la Strada, Slalom, Discesa a Spirale, Passaggio di Colore
-• Sport: Minigolf, Bowling, Tiro a Canestro, Calcio di Rigore, Freccette, Tiro con l’Arco, Calcio col Dito, Tennis, Beach Volley, Air hockey, Biliardo, Tennistavolo
-• Abilità e riflessi: Scoppia Palloncini, Taglia Frutta, Colpisci la Talpa, Test dei Riflessi, Allenamento di Mira, Tiro a Segno, Lancio di Coltelli, Torre Impilata, Torre dell\'Equilibrio, Pacchetto a un Tocco, Pesca Tranquilla
-• Fisica e mira: Fionda, Duello d’Artiglieria, Taglia la Corda, Labirinto Inclinabile, Allunaggio, Buco che Cresce, Corsa dall’Alto, Parcheggio 2D
+• Corri e salta: Corsa Infinita, Corsa del Dino, Corsa in Skate, Rimbalzo Infinito, Batti le Ali, Aeroplano di Carta, Avventura a Piattaforme, Corri e Spara, Attraversa la Strada, Slalom, Discesa a Spirale, Passaggio di Colore, Corsa della Folla
+• Sport: Minigolf, Bowling, Tiro a Canestro, Calcio di Rigore, Freccette, Tiro con l’Arco, Calcio col Dito, Tennis, Beach Volley, Air hockey, Biliardo, Tennistavolo, Colpo di Cricket, Badminton, Incursione Kabaddi
+• Abilità e riflessi: Scoppia Palloncini, Taglia Frutta, Colpisci la Talpa, Test dei Riflessi, Allenamento di Mira, Tiro a Segno, Lancio di Coltelli, Torre Impilata, Torre dell\'Equilibrio, Pacchetto a un Tocco, Pesca Tranquilla, Duello di aquiloni
+• Fisica e mira: Fionda, Duello d’Artiglieria, Taglia la Corda, Labirinto Inclinabile, Allunaggio, Buco che Cresce, Corsa dall’Alto, Parcheggio 2D, Scalata in collina
 • Labirinti e rivali: Conquista il Territorio, Arena dei Serpenti, Moto di Luce, Labirinto Esplosivo, Scava a Fondo, Miniera delle Frane, Guida dei Camminatori, Difesa a Torri
 
 In evidenza

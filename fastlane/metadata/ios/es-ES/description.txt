@@ -1,10 +1,10 @@
-Clásicos Arcade reúne 63 juegos arcade en una app con nuestro propio diseño. Arcade clásico, correr y saltar, deportes, habilidad y reflejos, física y puntería, laberintos y rivales; cada juego guarda su progreso, misiones y logros.
+Clásicos Arcade reúne 69 juegos arcade en una app con nuestro propio diseño. Arcade clásico, correr y saltar, deportes, habilidad y reflejos, física y puntería, laberintos y rivales; cada juego guarda su progreso, misiones y logros.
 
 • Arcade clásico: Serpiente, Rompeladrillos, Tirador Espacial, Invasores del Cielo, Rompe Rocas, Duelo de Palas, Persecución en el Laberinto, Ciempiés del Jardín, Defensa contra Meteoros, Batalla de Tanques, Lluvia de Balas, Pinball
-• Correr y saltar: Carrera Sin Fin, Carrera Dino, Carrera en Patineta, Rebote Sin Fin, Aleteo, Avión de Papel, Aventura de Plataformas, Corre y Dispara, Cruza el Camino, Eslalon de Esquí, Caída en Espiral, Paso de Color
-• Deportes: Minigolf, Bolos, Tiro a Canasta, Penalti, Dardos, Tiro con Arco, Fútbol de Dedo, Tenis, Vóley Playa, Hockey de aire, Billar, Tenis de mesa
-• Habilidad y reflejos: Revienta Globos, Corta Frutas, Golpea al Topo, Prueba de Reflejos, Entrena tu Puntería, Galería de Tiro, Lanza Cuchillos, Torre Apilada, Torre de Equilibrio, Paquete de Un Toque, Pesca Tranquila
-• Física y puntería: Tirachinas, Duelo de Artillería, Corta la Cuerda, Laberinto Inclinable, Alunizaje, Agujero Creciente, Carrera Cenital, Aparcar en 2D
+• Correr y saltar: Carrera Sin Fin, Carrera Dino, Carrera en Patineta, Rebote Sin Fin, Aleteo, Avión de Papel, Aventura de Plataformas, Corre y Dispara, Cruza el Camino, Eslalon de Esquí, Caída en Espiral, Paso de Color, Carrera de Multitudes
+• Deportes: Minigolf, Bolos, Tiro a Canasta, Penalti, Dardos, Tiro con Arco, Fútbol de Dedo, Tenis, Vóley Playa, Hockey de aire, Billar, Tenis de mesa, Golpe de Críquet, Bádminton, Incursión de Kabaddi
+• Habilidad y reflejos: Revienta Globos, Corta Frutas, Golpea al Topo, Prueba de Reflejos, Entrena tu Puntería, Galería de Tiro, Lanza Cuchillos, Torre Apilada, Torre de Equilibrio, Paquete de Un Toque, Pesca Tranquila, Duelo de Cometas
+• Física y puntería: Tirachinas, Duelo de Artillería, Corta la Cuerda, Laberinto Inclinable, Alunizaje, Agujero Creciente, Carrera Cenital, Aparcar en 2D, Subida a la Colina
 • Laberintos y rivales: Conquista de Terreno, Arena de Serpientes, Motos de Luz, Laberinto Explosivo, Excava Hondo, Mina de Rocas, Guía de Caminantes, Defensa de Torres
 
 Lo más destacado

@@ -1,10 +1,10 @@
-Clasice arcade reunește 63 jocuri arcade într-o aplicație, cu designul nostru propriu. Arcade clasic, alergare și sărituri, sport, îndemânare și reflexe, fizică și țintire, labirinturi și rivali; fiecare joc are progres, misiuni și realizări proprii.
+Clasice arcade reunește 69 jocuri arcade într-o aplicație, cu designul nostru propriu. Arcade clasic, alergare și sărituri, sport, îndemânare și reflexe, fizică și țintire, labirinturi și rivali; fiecare joc are progres, misiuni și realizări proprii.
 
 • Arcade clasic: Șarpele, Spărgătorul de cărămizi, Trăgătorul spațial, Invadatorii cerului, Spărgătorul de roci, Duelul paletelor, Urmărire în labirint, Miriapodul din grădină, Apărarea anti-meteori, Bătălia tancurilor, Ploaia de gloanțe, Pinball
-• Aleargă și sari: Alergare fără sfârșit, Fuga dinozaurului, Goana pe skate, Săritura fără sfârșit, Bate din aripi, Avionul de hârtie, Aventura pe platforme, Fugi și trage, Traversează drumul, Slalom la schi, Căderea în spirală, Trecerea culorilor
-• Sport: Minigolf, Bowling, Aruncarea la coș, Lovitura de pedeapsă, Darts, Tir cu arcul, Fotbal cu degetul, Tenis, Volei pe plajă, Air hockey, Biliard, Tenis de masă
-• Îndemânare și reflexe: Spargă baloanele, Feliază fructele, Lovește cârtița, Testul reflexelor, Antrenament de țintire, Poligonul de tir, Aruncarea cuțitelor, Turnul stivuit, Turnul Echilibrului, Pachetul cu o atingere, Pescuit liniștit
-• Fizică și țintire: Praștia, Duelul de artilerie, Taie frânghia, Labirintul înclinat, Aselenizare, Gaura care crește, Cursa de sus, Parcare 2D
+• Aleargă și sari: Alergare fără sfârșit, Fuga dinozaurului, Goana pe skate, Săritura fără sfârșit, Bate din aripi, Avionul de hârtie, Aventura pe platforme, Fugi și trage, Traversează drumul, Slalom la schi, Căderea în spirală, Trecerea culorilor, Cursa mulțimii
+• Sport: Minigolf, Bowling, Aruncarea la coș, Lovitura de pedeapsă, Darts, Tir cu arcul, Fotbal cu degetul, Tenis, Volei pe plajă, Air hockey, Biliard, Tenis de masă, Lovitura de crichet, Badminton, Raid de kabaddi
+• Îndemânare și reflexe: Spargă baloanele, Feliază fructele, Lovește cârtița, Testul reflexelor, Antrenament de țintire, Poligonul de tir, Aruncarea cuțitelor, Turnul stivuit, Turnul Echilibrului, Pachetul cu o atingere, Pescuit liniștit, Duelul zmeielor
+• Fizică și țintire: Praștia, Duelul de artilerie, Taie frânghia, Labirintul înclinat, Aselenizare, Gaura care crește, Cursa de sus, Parcare 2D, Urcarea dealului
 • Labirinturi și rivali: Cucerirea terenului, Arena șerpilor, Motociclete de lumină, Labirintul cu bombe, Sapă adânc, Mina cu bolovani, Ghidul drumeților, Apărarea turnurilor
 
 Puncte forte

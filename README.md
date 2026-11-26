@@ -1,6 +1,6 @@
 # Arcade Klasikleri · Arcade Classics (merkez-arcade-klasikleri)
 
-Arcade ailesinin **merkez uygulaması**: 63 oyunu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [arcade-motoru](https://github.com/taktemurr-ops/arcade-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Hava hokeyi, bilardo, masa tenisi ve blok kule dengesi başka ailelerle paylaşılan oyunlardır.
+Arcade ailesinin **merkez uygulaması**: 69 oyunu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [arcade-motoru](https://github.com/taktemurr-ops/arcade-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Hava hokeyi, bilardo, masa tenisi ve blok kule dengesi başka ailelerle paylaşılan oyunlardır.
 
 | Oyun | Depo |
 |---|---|
@@ -28,6 +28,7 @@ Arcade ailesinin **merkez uygulaması**: 63 oyunu tek mağaza uygulamasında top
 | Kayak Slalom | [oyun-kayak-slalom](https://github.com/taktemurr-ops/oyun-kayak-slalom) |
 | Helezon Düşüş | [oyun-helezon-dusus](https://github.com/taktemurr-ops/oyun-helezon-dusus) |
 | Renk Geçişi | [oyun-renk-gecisi](https://github.com/taktemurr-ops/oyun-renk-gecisi) |
+| Kalabalık Koşusu | [oyun-kalabalik-kosusu](https://github.com/taktemurr-ops/oyun-kalabalik-kosusu) |
 | Mini Golf | [oyun-mini-golf](https://github.com/taktemurr-ops/oyun-mini-golf) |
 | Bowling | [oyun-bowling](https://github.com/taktemurr-ops/oyun-bowling) |
 | Basketbol Atışı | [oyun-basketbol-atisi](https://github.com/taktemurr-ops/oyun-basketbol-atisi) |
@@ -40,6 +41,9 @@ Arcade ailesinin **merkez uygulaması**: 63 oyunu tek mağaza uygulamasında top
 | Hava Hokeyi | [oyun-hava-hokeyi](https://github.com/taktemurr-ops/oyun-hava-hokeyi) |
 | Bilardo | [oyun-bilardo](https://github.com/taktemurr-ops/oyun-bilardo) |
 | Masa Tenisi | [oyun-masa-tenisi](https://github.com/taktemurr-ops/oyun-masa-tenisi) |
+| Kriket Vuruşu | [oyun-kriket-vurusu](https://github.com/taktemurr-ops/oyun-kriket-vurusu) |
+| Badminton | [oyun-badminton](https://github.com/taktemurr-ops/oyun-badminton) |
+| Kabaddi Baskını | [oyun-kabaddi-baskini](https://github.com/taktemurr-ops/oyun-kabaddi-baskini) |
 | Balon Patlatma | [oyun-balon-patlatma](https://github.com/taktemurr-ops/oyun-balon-patlatma) |
 | Meyve Kesme | [oyun-meyve-kesme](https://github.com/taktemurr-ops/oyun-meyve-kesme) |
 | Köstebek Vurma | [oyun-kostebek-vurma](https://github.com/taktemurr-ops/oyun-kostebek-vurma) |
@@ -51,6 +55,7 @@ Arcade ailesinin **merkez uygulaması**: 63 oyunu tek mağaza uygulamasında top
 | Denge Kulesi | [oyun-denge-kulesi](https://github.com/taktemurr-ops/oyun-denge-kulesi) |
 | Tek Dokunuş Paketi | [oyun-hiper-gundelik-mekanik-paketi](https://github.com/taktemurr-ops/oyun-hiper-gundelik-mekanik-paketi) |
 | Balık Tutma | [oyun-balik-tutma](https://github.com/taktemurr-ops/oyun-balik-tutma) |
+| Uçurtma Savaşı | [oyun-ucurtma-savasi](https://github.com/taktemurr-ops/oyun-ucurtma-savasi) |
 | Sapan Atışı | [oyun-sapan-atisi](https://github.com/taktemurr-ops/oyun-sapan-atisi) |
 | Topçu Düellosu | [oyun-topcu-duellosu](https://github.com/taktemurr-ops/oyun-topcu-duellosu) |
 | İp Kesme | [oyun-ip-kesme](https://github.com/taktemurr-ops/oyun-ip-kesme) |
@@ -59,6 +64,7 @@ Arcade ailesinin **merkez uygulaması**: 63 oyunu tek mağaza uygulamasında top
 | Delik Büyütme | [oyun-delik-buyutme](https://github.com/taktemurr-ops/oyun-delik-buyutme) |
 | Üstten Yarış | [oyun-ustten-yaris](https://github.com/taktemurr-ops/oyun-ustten-yaris) |
 | 2B Park Etme | [oyun-2b-park-etme](https://github.com/taktemurr-ops/oyun-2b-park-etme) |
+| Tepe Tırmanışı | [oyun-tepe-tirmanisi](https://github.com/taktemurr-ops/oyun-tepe-tirmanisi) |
 | Alan Kapma | [oyun-alan-kapma](https://github.com/taktemurr-ops/oyun-alan-kapma) |
 | Yılan Arenası | [oyun-yilan-io](https://github.com/taktemurr-ops/oyun-yilan-io) |
 | Işık Motoru | [oyun-isik-motoru](https://github.com/taktemurr-ops/oyun-isik-motoru) |

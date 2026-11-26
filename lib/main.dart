@@ -4,6 +4,7 @@ import 'package:oyun_alan_kapma/oyun_alan_kapma.dart';
 import 'package:oyun_asteroit/oyun_asteroit.dart';
 import 'package:oyun_atis_galerisi/oyun_atis_galerisi.dart';
 import 'package:oyun_ay_a_inis/oyun_ay_a_inis.dart';
+import 'package:oyun_badminton/oyun_badminton.dart';
 import 'package:oyun_balik_tutma/oyun_balik_tutma.dart';
 import 'package:oyun_balon_patlatma/oyun_balon_patlatma.dart';
 import 'package:oyun_basketbol_atisi/oyun_basketbol_atisi.dart';
@@ -22,7 +23,9 @@ import 'package:oyun_helezon_dusus/oyun_helezon_dusus.dart';
 import 'package:oyun_hiper_gundelik_mekanik_paketi/oyun_hiper_gundelik_mekanik_paketi.dart';
 import 'package:oyun_ip_kesme/oyun_ip_kesme.dart';
 import 'package:oyun_isik_motoru/oyun_isik_motoru.dart';
+import 'package:oyun_kabaddi_baskini/oyun_kabaddi_baskini.dart';
 import 'package:oyun_kagit_ucak_suzulme/oyun_kagit_ucak_suzulme.dart';
+import 'package:oyun_kalabalik_kosusu/oyun_kalabalik_kosusu.dart';
 import 'package:oyun_kanat_cirpma/oyun_kanat_cirpma.dart';
 import 'package:oyun_kaya_dusmesi/oyun_kaya_dusmesi.dart';
 import 'package:oyun_kayak_slalom/oyun_kayak_slalom.dart';
@@ -31,6 +34,7 @@ import 'package:oyun_kazi_kazi/oyun_kazi_kazi.dart';
 import 'package:oyun_kirkayak/oyun_kirkayak.dart';
 import 'package:oyun_kos_ve_ates_et/oyun_kos_ve_ates_et.dart';
 import 'package:oyun_kostebek_vurma/oyun_kostebek_vurma.dart';
+import 'package:oyun_kriket_vurusu/oyun_kriket_vurusu.dart';
 import 'package:oyun_kule_kurma/oyun_kule_kurma.dart';
 import 'package:oyun_kule_savunmasi/oyun_kule_savunmasi.dart';
 import 'package:oyun_labirent_kovalamaca/oyun_labirent_kovalamaca.dart';
@@ -52,8 +56,10 @@ import 'package:oyun_sonsuz_kosu/oyun_sonsuz_kosu.dart';
 import 'package:oyun_sonsuz_ziplama/oyun_sonsuz_ziplama.dart';
 import 'package:oyun_tank_savasi/oyun_tank_savasi.dart';
 import 'package:oyun_tenis/oyun_tenis.dart';
+import 'package:oyun_tepe_tirmanisi/oyun_tepe_tirmanisi.dart';
 import 'package:oyun_topcu_duellosu/oyun_topcu_duellosu.dart';
 import 'package:oyun_tugla_kirma/oyun_tugla_kirma.dart';
+import 'package:oyun_ucurtma_savasi/oyun_ucurtma_savasi.dart';
 import 'package:oyun_ustten_yaris/oyun_ustten_yaris.dart';
 import 'package:oyun_uzay_atisi/oyun_uzay_atisi.dart';
 import 'package:oyun_uzay_istilacilari/oyun_uzay_istilacilari.dart';
@@ -169,6 +175,7 @@ final hubConfig = HubConfig(
     kayakConfig,
     helezonConfig,
     renkConfig,
+    kalabalikConfig,
     minigolfConfig,
     bowlingConfig,
     basketConfig,
@@ -181,6 +188,9 @@ final hubConfig = HubConfig(
     havaHokeyiConfig,
     bilardoConfig,
     masaTenisiConfig,
+    kriketConfig,
+    tuytopConfig,
+    baskinConfig,
     balonConfig,
     meyveConfig,
     kostebekConfig,
@@ -192,6 +202,7 @@ final hubConfig = HubConfig(
     dengeConfig,
     hiperConfig,
     balikConfig,
+    ucurtmaConfig,
     sapanConfig,
     topcuConfig,
     ipkesmeConfig,
@@ -200,6 +211,7 @@ final hubConfig = HubConfig(
     delikConfig,
     usttenConfig,
     parkConfig,
+    tepeConfig,
     alanConfig,
     yilanioConfig,
     isikConfig,
@@ -217,6 +229,7 @@ final hubConfig = HubConfig(
     'oyun-asteroit': GameCover('a-asteroit'),
     'oyun-atis-galerisi': GameCover('a-galeri'),
     'oyun-ay-a-inis': GameCover('lander'),
+    'oyun-badminton': GameCover('shuttlecourt'),
     'oyun-balik-tutma': GameCover('fish'),
     'oyun-balon-patlatma': GameCover('balloons'),
     'oyun-basketbol-atisi': GameCover('a-basket'),
@@ -235,7 +248,9 @@ final hubConfig = HubConfig(
     'oyun-hiper-gundelik-mekanik-paketi': GameCover('apps'),
     'oyun-ip-kesme': GameCover('rope'),
     'oyun-isik-motoru': GameCover('a-isik'),
+    'oyun-kabaddi-baskini': GameCover('kabaddiraid'),
     'oyun-kagit-ucak-suzulme': GameCover('a-ucak'),
+    'oyun-kalabalik-kosusu': GameCover('crowdgates'),
     'oyun-kanat-cirpma': GameCover('a-kanat'),
     'oyun-kaya-dusmesi': GameCover('boulder'),
     'oyun-kayak-slalom': GameCover('ski'),
@@ -244,6 +259,7 @@ final hubConfig = HubConfig(
     'oyun-kirkayak': GameCover('bug'),
     'oyun-kos-ve-ates-et': GameCover('a-kosates'),
     'oyun-kostebek-vurma': GameCover('mole'),
+    'oyun-kriket-vurusu': GameCover('cricketbat'),
     'oyun-kule-kurma': GameCover('a-kulekurma'),
     'oyun-kule-savunmasi': GameCover('castle'),
     'oyun-labirent-kovalamaca': GameCover('a-labkov'),
@@ -265,8 +281,10 @@ final hubConfig = HubConfig(
     'oyun-sonsuz-ziplama': GameCover('a-ziplama'),
     'oyun-tank-savasi': GameCover('tank'),
     'oyun-tenis': GameCover('a-tenis'),
+    'oyun-tepe-tirmanisi': GameCover('hillclimb'),
     'oyun-topcu-duellosu': GameCover('a-topcu'),
     'oyun-tugla-kirma': GameCover('bricks'),
+    'oyun-ucurtma-savasi': GameCover('kitefight'),
     'oyun-ustten-yaris': GameCover('a-ustten'),
     'oyun-uzay-atisi': GameCover('a-uzayatisi'),
     'oyun-uzay-istilacilari': GameCover('a-istila'),
@@ -351,7 +369,7 @@ final hubConfig = HubConfig(
           'Chạy và nhảy',
           'Takbo at talon',
         ],
-        ids: ['oyun-sonsuz-kosu', 'oyun-dinozor-kosusu', 'oyun-kaykay-sorf-kosusu', 'oyun-sonsuz-ziplama', 'oyun-kanat-cirpma', 'oyun-kagit-ucak-suzulme', 'oyun-platform-oyunu', 'oyun-kos-ve-ates-et', 'oyun-yol-gecme', 'oyun-kayak-slalom', 'oyun-helezon-dusus', 'oyun-renk-gecisi']),
+        ids: ['oyun-sonsuz-kosu', 'oyun-dinozor-kosusu', 'oyun-kaykay-sorf-kosusu', 'oyun-sonsuz-ziplama', 'oyun-kanat-cirpma', 'oyun-kagit-ucak-suzulme', 'oyun-platform-oyunu', 'oyun-kos-ve-ates-et', 'oyun-yol-gecme', 'oyun-kayak-slalom', 'oyun-helezon-dusus', 'oyun-renk-gecisi', 'oyun-kalabalik-kosusu']),
     HubSection(
         title: [
           'Spor',
@@ -388,7 +406,7 @@ final hubConfig = HubConfig(
           'Thể thao',
           'Sports',
         ],
-        ids: ['oyun-mini-golf', 'oyun-bowling', 'oyun-basketbol-atisi', 'oyun-penalti-atisi', 'oyun-dart', 'oyun-okculuk', 'oyun-parmak-futbolu', 'oyun-tenis', 'oyun-voleybol', 'oyun-hava-hokeyi', 'oyun-bilardo', 'oyun-masa-tenisi']),
+        ids: ['oyun-mini-golf', 'oyun-bowling', 'oyun-basketbol-atisi', 'oyun-penalti-atisi', 'oyun-dart', 'oyun-okculuk', 'oyun-parmak-futbolu', 'oyun-tenis', 'oyun-voleybol', 'oyun-hava-hokeyi', 'oyun-bilardo', 'oyun-masa-tenisi', 'oyun-kriket-vurusu', 'oyun-badminton', 'oyun-kabaddi-baskini']),
     HubSection(
         title: [
           'Beceri ve refleks',
@@ -425,7 +443,7 @@ final hubConfig = HubConfig(
           'Kỹ năng và phản xạ',
           'Galing at reflex',
         ],
-        ids: ['oyun-balon-patlatma', 'oyun-meyve-kesme', 'oyun-kostebek-vurma', 'oyun-refleks-testi', 'oyun-nisan-antrenmani', 'oyun-atis-galerisi', 'oyun-bicak-firlatma', 'oyun-kule-kurma', 'oyun-denge-kulesi', 'oyun-hiper-gundelik-mekanik-paketi', 'oyun-balik-tutma']),
+        ids: ['oyun-balon-patlatma', 'oyun-meyve-kesme', 'oyun-kostebek-vurma', 'oyun-refleks-testi', 'oyun-nisan-antrenmani', 'oyun-atis-galerisi', 'oyun-bicak-firlatma', 'oyun-kule-kurma', 'oyun-denge-kulesi', 'oyun-hiper-gundelik-mekanik-paketi', 'oyun-balik-tutma', 'oyun-ucurtma-savasi']),
     HubSection(
         title: [
           'Fizik ve nişan',
@@ -462,7 +480,7 @@ final hubConfig = HubConfig(
           'Vật lý và ngắm bắn',
           'Physics at asinta',
         ],
-        ids: ['oyun-sapan-atisi', 'oyun-topcu-duellosu', 'oyun-ip-kesme', 'oyun-egik-labirent', 'oyun-ay-a-inis', 'oyun-delik-buyutme', 'oyun-ustten-yaris', 'oyun-2b-park-etme']),
+        ids: ['oyun-sapan-atisi', 'oyun-topcu-duellosu', 'oyun-ip-kesme', 'oyun-egik-labirent', 'oyun-ay-a-inis', 'oyun-delik-buyutme', 'oyun-ustten-yaris', 'oyun-2b-park-etme', 'oyun-tepe-tirmanisi']),
     HubSection(
         title: [
           'Labirent ve rakipler',

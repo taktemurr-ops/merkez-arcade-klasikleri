@@ -1,10 +1,10 @@
-Pinagsasama ng Mga Klasikong Arcade ang 63 arcade game sa iisang app, sa sarili naming disenyo. Klasikong arcade, takbo at talon, sports, galing at reflex, physics at asinta, maze at karibal; may sariling progreso, misyon at tagumpay ang bawat laro.
+Pinagsasama ng Mga Klasikong Arcade ang 69 arcade game sa iisang app, sa sarili naming disenyo. Klasikong arcade, takbo at talon, sports, galing at reflex, physics at asinta, maze at karibal; may sariling progreso, misyon at tagumpay ang bawat laro.
 
 • Klasikong arcade: Ahas, Basag-Ladrilyo, Barilan sa Kalawakan, Mananakop sa Langit, Tagabasag ng Bato, Duwelo ng Paleta, Habulan sa Maze, Alupihan sa Hardin, Depensa sa Meteor, Labanan ng Tangke, Ulan ng Bala, Pinball
-• Takbo at talon: Walang Katapusang Takbo, Takbo ng Dino, Takbo sa Skateboard, Walang Tigil na Talbog, Pagaspas, Eroplanong Papel, Pakikipagsapalaran sa Plataporma, Takbo at Barilin, Tawid Daan, Ski Slalom, Paikot na Bagsak, Daan ng Kulay
-• Sports: Mini Golf, Bowling, Shoot sa Ring, Penalty Kick, Darts, Pagpana, Football sa Daliri, Tenis, Beach Volleyball, Air hockey, Bilyar, Table tennis
-• Galing at reflex: Putok-Lobo, Hiwa-Prutas, Pukpok sa Nunal, Pagsubok sa Reflex, Pagsasanay sa Pagtutok, Galeriya ng Barilan, Hagis-Kutsilyo, Torre ng Patong, Tore ng Balanse, One-Tap na Pakete, Payapang Pangingisda
-• Physics at asinta: Tirador, Duwelo ng Kanyon, Gupit-Lubid, Nakahilig na Maze, Paglapag sa Buwan, Lumalaking Butas, Karera Mula sa Itaas, 2D na Paradahan
+• Takbo at talon: Walang Katapusang Takbo, Takbo ng Dino, Takbo sa Skateboard, Walang Tigil na Talbog, Pagaspas, Eroplanong Papel, Pakikipagsapalaran sa Plataporma, Takbo at Barilin, Tawid Daan, Ski Slalom, Paikot na Bagsak, Daan ng Kulay, Takbo ng Madla
+• Sports: Mini Golf, Bowling, Shoot sa Ring, Penalty Kick, Darts, Pagpana, Football sa Daliri, Tenis, Beach Volleyball, Air hockey, Bilyar, Table tennis, Palo sa Kuliglig, Badminton, Lusob sa Kabaddi
+• Galing at reflex: Putok-Lobo, Hiwa-Prutas, Pukpok sa Nunal, Pagsubok sa Reflex, Pagsasanay sa Pagtutok, Galeriya ng Barilan, Hagis-Kutsilyo, Torre ng Patong, Tore ng Balanse, One-Tap na Pakete, Payapang Pangingisda, Labanan ng Saranggola
+• Physics at asinta: Tirador, Duwelo ng Kanyon, Gupit-Lubid, Nakahilig na Maze, Paglapag sa Buwan, Lumalaking Butas, Karera Mula sa Itaas, 2D na Paradahan, Akyat sa Burol
 • Maze at karibal: Agawan ng Lupa, Arena ng Ahas, Motor ng Liwanag, Maze ng Bomba, Humukay nang Malalim, Minahan ng Bato, Gabay ng Lakad, Depensa ng Tore
 
 Mga tampok

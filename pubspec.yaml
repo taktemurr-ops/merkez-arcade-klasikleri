@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 5eedc912719ebc306e3cd9e5e9b251efe4399105
+      ref: 199f5120f94f2c2311d885f7bcd1876de93935de
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_yilan:
     git:
@@ -267,6 +267,30 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-kule-savunmasi
       ref: 9f55e84ce851e84e12b9f1e160ad5d2d747fdf3f
+  oyun_kalabalik_kosusu:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kalabalik-kosusu
+      ref: 4362dc9ec27c08dd3bbda9e28d134a3743084f29
+  oyun_kriket_vurusu:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kriket-vurusu
+      ref: 41d9c66c0d74ba5144780fc6be4c3e80a0645ea2
+  oyun_badminton:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-badminton
+      ref: 862b4bf82a438b3b9469b35be20f4cfad4afbbe0
+  oyun_kabaddi_baskini:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kabaddi-baskini
+      ref: 081b4a60fbf024d61b3510191794f0f562ab83d6
+  oyun_ucurtma_savasi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-ucurtma-savasi
+      ref: 44daf1a6d90b5af05761ed7960cbf128f9ab6802
+  oyun_tepe_tirmanisi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-tepe-tirmanisi
+      ref: 5b2745a4c23edd18de7b004ce2fc4242aa9da65e
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -280,11 +304,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 5eedc912719ebc306e3cd9e5e9b251efe4399105
+      ref: 199f5120f94f2c2311d885f7bcd1876de93935de
   arcade_motoru:
     git:
       url: https://github.com/taktemurr-ops/arcade-motoru
-      ref: 7b1db128a4a13643edbc715360642d12b9751b2a
+      ref: bbbcfe855a1a6d75cf44366f51597a7b52800de7
 
 dev_dependencies:
   flutter_test:

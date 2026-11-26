@@ -1,10 +1,10 @@
-Klasik Arked menghimpunkan 63 permainan arked dalam satu aplikasi dengan reka bentuk asli kami. Arked klasik, lari dan lompat, sukan, kemahiran dan refleks, fizik dan bidikan, labirin dan lawan; setiap permainan ada kemajuan, misi dan pencapaian sendiri.
+Klasik Arked menghimpunkan 69 permainan arked dalam satu aplikasi dengan reka bentuk asli kami. Arked klasik, lari dan lompat, sukan, kemahiran dan refleks, fizik dan bidikan, labirin dan lawan; setiap permainan ada kemajuan, misi dan pencapaian sendiri.
 
 • Arked klasik: Ular, Pemecah Bata, Penembak Angkasa, Penceroboh Langit, Pemusnah Batu, Duel Raket, Kejar-Mengejar Labirin, Lipan Taman, Pertahanan Meteor, Pertempuran Kereta Kebal, Hujan Peluru, Pinball
-• Lari dan lompat: Larian Tanpa Henti, Larian Dino, Lumba Papan Luncur, Lantunan Tanpa Henti, Kepak Sayap, Kapal Terbang Kertas, Pengembaraan Platform, Lari dan Tembak, Lintas Jalan, Slalom Ski, Jatuh Lingkaran, Lintas Warna
-• Sukan: Golf Mini, Boling, Balingan Bola Keranjang, Sepakan Penalti, Dart, Memanah, Bola Sepak Jari, Tenis, Bola Tampar Pantai, Hoki udara, Biliard, Ping pong
-• Kemahiran dan refleks: Letup Belon, Potong Buah, Ketuk Tikus Mondok, Ujian Refleks, Latihan Membidik, Galeri Menembak, Baling Pisau, Menara Susun, Menara Seimbang, Pek Sekali Ketik, Memancing Santai
-• Fizik dan bidikan: Lastik, Duel Artileri, Potong Tali, Labirin Senget, Pendaratan Bulan, Lubang Membesar, Lumba Pandangan Atas, Letak Kereta 2D
+• Lari dan lompat: Larian Tanpa Henti, Larian Dino, Lumba Papan Luncur, Lantunan Tanpa Henti, Kepak Sayap, Kapal Terbang Kertas, Pengembaraan Platform, Lari dan Tembak, Lintas Jalan, Slalom Ski, Jatuh Lingkaran, Lintas Warna, Larian Orang Ramai
+• Sukan: Golf Mini, Boling, Balingan Bola Keranjang, Sepakan Penalti, Dart, Memanah, Bola Sepak Jari, Tenis, Bola Tampar Pantai, Hoki udara, Biliard, Ping pong, Pukulan Kriket, Badminton, Serbuan Kabadi
+• Kemahiran dan refleks: Letup Belon, Potong Buah, Ketuk Tikus Mondok, Ujian Refleks, Latihan Membidik, Galeri Menembak, Baling Pisau, Menara Susun, Menara Seimbang, Pek Sekali Ketik, Memancing Santai, Laga Layang-layang
+• Fizik dan bidikan: Lastik, Duel Artileri, Potong Tali, Labirin Senget, Pendaratan Bulan, Lubang Membesar, Lumba Pandangan Atas, Letak Kereta 2D, Daki Bukit
 • Labirin dan lawan: Rampas Kawasan, Arena Ular, Motosikal Cahaya, Labirin Bom, Gali Dalam, Lombong Batu Jatuh, Pemandu Pejalan, Pertahanan Menara
 
 Sorotan

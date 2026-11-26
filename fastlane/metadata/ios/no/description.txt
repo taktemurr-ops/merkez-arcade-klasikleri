@@ -1,10 +1,10 @@
-Arkadeklassikere samler 63 arkadespill i én app med vårt eget design. Klassisk arkade, løp og hopp, sport, ferdighet og reflekser, fysikk og sikte, labyrinter og rivaler; hvert spill har egen fremgang, oppdrag og prestasjoner.
+Arkadeklassikere samler 69 arkadespill i én app med vårt eget design. Klassisk arkade, løp og hopp, sport, ferdighet og reflekser, fysikk og sikte, labyrinter og rivaler; hvert spill har egen fremgang, oppdrag og prestasjoner.
 
 • Klassisk arkade: Slangen, Mursteinknuser, Romskyter, Himmelinntrengere, Steinknuser, Racketduell, Labyrintjakt, Hagetusenbeinet, Meteorforsvar, Stridsvognslag, Kuleregn, Flipperspill
-• Løp og hopp: Endeløst løp, Dinospurt, Skateløp, Sprettball, Vingeslag, Papirfly, Plattformeventyr, Løp og skyt, Veikrysseren, Slalåm, Spiralfall, Fargepassasje
-• Sport: Minigolf, Bowling, Basketkast, Straffespark, Dart, Bueskyting, Fingerfotball, Tennis, Sandvolleyball, Airhockey, Biljard, Bordtennis
-• Ferdighet og reflekser: Ballongsprett, Fruktkutter, Dunk føflekken, Reaksjonstest, Siktetrening, Skytebod, Knivkast, Stabeltårn, Balansetårnet, Ett-trykk-pakken, Rolig fiske
-• Fysikk og sikte: Sprettert, Artilleriduell, Klipp tauet, Vippelabyrint, Månelanding, Voksende hull, Racer ovenfra, Parkering 2D
+• Løp og hopp: Endeløst løp, Dinospurt, Skateløp, Sprettball, Vingeslag, Papirfly, Plattformeventyr, Løp og skyt, Veikrysseren, Slalåm, Spiralfall, Fargepassasje, Folkemengdeløp
+• Sport: Minigolf, Bowling, Basketkast, Straffespark, Dart, Bueskyting, Fingerfotball, Tennis, Sandvolleyball, Airhockey, Biljard, Bordtennis, Cricketslag, Badminton, Kabaddi-angrep
+• Ferdighet og reflekser: Ballongsprett, Fruktkutter, Dunk føflekken, Reaksjonstest, Siktetrening, Skytebod, Knivkast, Stabeltårn, Balansetårnet, Ett-trykk-pakken, Rolig fiske, Drageduell
+• Fysikk og sikte: Sprettert, Artilleriduell, Klipp tauet, Vippelabyrint, Månelanding, Voksende hull, Racer ovenfra, Parkering 2D, Bakketur
 • Labyrinter og rivaler: Landerobring, Slangearenaen, Lyssykler, Bombelabyrint, Grav dypt, Steinrasgruva, Vandrerguiden, Tårnforsvar
 
 Høydepunkter

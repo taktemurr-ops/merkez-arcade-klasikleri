@@ -1,10 +1,10 @@
-Arcade Classics brings 63 arcade games together in one app, with our own original design. Classic arcade, run and jump, sports, skill and reflex, physics and aim, maze and rival games; every game keeps its own progress, missions and achievements.
+Arcade Classics brings 69 arcade games together in one app, with our own original design. Classic arcade, run and jump, sports, skill and reflex, physics and aim, maze and rival games; every game keeps its own progress, missions and achievements.
 
 • Classic arcade: Snake, Brick Breaker, Space Shooter, Sky Invaders, Rock Blaster, Paddle Duel, Maze Chase, Garden Centipede, Meteor Defense, Tank Battle, Bullet Storm, Pinball
-• Run and jump: Endless Run, Dino Dash, Skate Rush, Bounce Rush, Flap Away, Paper Glider, Platform Quest, Run & Gun, Road Hopper, Ski Slalom, Spiral Drop, Color Pass
-• Sports: Mini Golf, Bowling, Hoop Shot, Penalty Kick, Darts, Archery, Finger Football, Tennis, Beach Volley, Air Hockey, Pool Billiards, Table Tennis
-• Skill and reflex: Balloon Pop, Fruit Slice, Mole Bonk, Reflex Test, Aim Trainer, Shooting Gallery, Knife Toss, Stack Tower, Balance Tower, One-Tap Pack, Calm Fishing
-• Physics and aim: Sling Shot, Artillery Duel, Rope Snip, Tilt Maze, Moon Lander, Growing Hole, Top-Down Racer, 2D Parking
+• Run and jump: Endless Run, Dino Dash, Skate Rush, Bounce Rush, Flap Away, Paper Glider, Platform Quest, Run & Gun, Road Hopper, Ski Slalom, Spiral Drop, Color Pass, Crowd Run
+• Sports: Mini Golf, Bowling, Hoop Shot, Penalty Kick, Darts, Archery, Finger Football, Tennis, Beach Volley, Air Hockey, Pool Billiards, Table Tennis, Cricket Strike, Badminton, Kabaddi Raid
+• Skill and reflex: Balloon Pop, Fruit Slice, Mole Bonk, Reflex Test, Aim Trainer, Shooting Gallery, Knife Toss, Stack Tower, Balance Tower, One-Tap Pack, Calm Fishing, Kite Duel
+• Physics and aim: Sling Shot, Artillery Duel, Rope Snip, Tilt Maze, Moon Lander, Growing Hole, Top-Down Racer, 2D Parking, Hilltop Drive
 • Mazes and rivals: Land Grab, Snake Arena, Light Cycles, Bomb Maze, Dig Deep, Rockfall Mine, Walker Guide, Tower Defense
 
 Highlights

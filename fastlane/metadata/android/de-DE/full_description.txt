@@ -1,10 +1,10 @@
-Arcade-Klassiker vereint 63 Arcade-Spiele in einer App, mit unserem eigenen Design. Klassische Arcade, Laufen und Springen, Sport, Geschick und Reflexe, Physik und Zielen, Labyrinth- und Duellspiele; jedes Spiel hat eigene Fortschritte, Missionen und Erfolge.
+Arcade-Klassiker vereint 69 Arcade-Spiele in einer App, mit unserem eigenen Design. Klassische Arcade, Laufen und Springen, Sport, Geschick und Reflexe, Physik und Zielen, Labyrinth- und Duellspiele; jedes Spiel hat eigene Fortschritte, Missionen und Erfolge.
 
 • Klassische Arcade: Schlange, Mauerbrecher, Weltraum-Shooter, Himmelsinvasion, Felsbrecher, Schläger-Duell, Labyrinth-Jagd, Gartentausendfüßler, Meteorabwehr, Panzerschlacht, Kugelhagel, Flipper
-• Laufen und springen: Endloslauf, Dino-Sprint, Skate-Rausch, Hüpfball-Rausch, Flatterflug, Papierflieger, Plattform-Abenteuer, Lauf und Schieß, Straßenhüpfer, Ski-Slalom, Spiralfall, Farbpassage
-• Sport: Minigolf, Bowling, Korbwurf, Elfmeterschießen, Darts, Bogenschießen, Fingerfußball, Tennis, Beachvolleyball, Airhockey, Poolbillard, Tischtennis
-• Geschick und Reflexe: Ballonplatzen, Obstschnitt, Maulwurf-Klopfer, Reaktionstest, Zieltraining, Schießbude, Messerwurf, Stapelturm, Balanceturm, Ein-Tipp-Paket, Ruhiges Angeln
-• Physik und Zielen: Schleuderschuss, Artillerieduell, Seil-Schnitt, Kipp-Labyrinth, Mondlandung, Wachsendes Loch, Verkehrsflitzer, 2D-Einparken
+• Laufen und springen: Endloslauf, Dino-Sprint, Skate-Rausch, Hüpfball-Rausch, Flatterflug, Papierflieger, Plattform-Abenteuer, Lauf und Schieß, Straßenhüpfer, Ski-Slalom, Spiralfall, Farbpassage, Menschenmassen-Lauf
+• Sport: Minigolf, Bowling, Korbwurf, Elfmeterschießen, Darts, Bogenschießen, Fingerfußball, Tennis, Beachvolleyball, Airhockey, Poolbillard, Tischtennis, Cricket-Schlag, Badminton, Kabaddi-Angriff
+• Geschick und Reflexe: Ballonplatzen, Obstschnitt, Maulwurf-Klopfer, Reaktionstest, Zieltraining, Schießbude, Messerwurf, Stapelturm, Balanceturm, Ein-Tipp-Paket, Ruhiges Angeln, Drachenduell
+• Physik und Zielen: Schleuderschuss, Artillerieduell, Seil-Schnitt, Kipp-Labyrinth, Mondlandung, Wachsendes Loch, Verkehrsflitzer, 2D-Einparken, Bergauffahrt
 • Labyrinthe und Rivalen: Landnahme, Schlangenarena, Lichtmotorräder, Bombenlabyrinth, Tief Graben, Steinschlag-Mine, Wanderer-Lotse, Turmverteidigung
 
 Highlights

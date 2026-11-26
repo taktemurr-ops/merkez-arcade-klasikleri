@@ -1,10 +1,10 @@
-Arcadeklassiekers bundelt 63 arcadespellen in één app, met ons eigen ontwerp. Klassieke arcade, rennen en springen, sport, behendigheid en reflexen, natuurkunde en mikken, doolhoven en rivalen; elk spel houdt eigen voortgang, missies en prestaties bij.
+Arcadeklassiekers bundelt 69 arcadespellen in één app, met ons eigen ontwerp. Klassieke arcade, rennen en springen, sport, behendigheid en reflexen, natuurkunde en mikken, doolhoven en rivalen; elk spel houdt eigen voortgang, missies en prestaties bij.
 
 • Klassieke arcade: Slang, Stenenbreker, Ruimteschieter, Hemelinvallers, Rotsbreker, Batjesduel, Doolhofjacht, Tuinduizendpoot, Meteorafweer, Tankslag, Kogelregen, Flipperkast
-• Rennen en springen: Eindeloos Rennen, Dinosprint, Skaterace, Stuiterrace, Fladderen, Papieren Vliegtuig, Platformavontuur, Ren en Schiet, Overstekertje, Skislalom, Spiraalval, Kleurpassage
-• Sport: Midgetgolf, Bowling, Basketbalschot, Strafschop, Darten, Boogschieten, Vingervoetbal, Tennis, Beachvolleybal, Airhockey, Biljart, Tafeltennis
-• Behendigheid en reflexen: Ballonnen Knallen, Fruit Snijden, Mollen Meppen, Reflextest, Mikktraining, Schiettent, Messenwerpen, Stapeltoren, Balanstoren, Eén-tik-pakket, Rustig Vissen
-• Natuurkunde en mikken: Katapult, Artillerieduel, Touw Knippen, Kantelt Doolhof, Maanlanding, Groeiend Gat, Racen van Bovenaf, 2D Parkeren
+• Rennen en springen: Eindeloos Rennen, Dinosprint, Skaterace, Stuiterrace, Fladderen, Papieren Vliegtuig, Platformavontuur, Ren en Schiet, Overstekertje, Skislalom, Spiraalval, Kleurpassage, Menigterace
+• Sport: Midgetgolf, Bowling, Basketbalschot, Strafschop, Darten, Boogschieten, Vingervoetbal, Tennis, Beachvolleybal, Airhockey, Biljart, Tafeltennis, Cricketslag, Badminton, Kabaddi-aanval
+• Behendigheid en reflexen: Ballonnen Knallen, Fruit Snijden, Mollen Meppen, Reflextest, Mikktraining, Schiettent, Messenwerpen, Stapeltoren, Balanstoren, Eén-tik-pakket, Rustig Vissen, Vliegerduel
+• Natuurkunde en mikken: Katapult, Artillerieduel, Touw Knippen, Kantelt Doolhof, Maanlanding, Groeiend Gat, Racen van Bovenaf, 2D Parkeren, Heuveltocht
 • Doolhoven en rivalen: Landjacht, Slangenarena, Lichtmotoren, Bommendoolhof, Diep Graven, Rotsvalmijn, Wandelgids, Torenverdediging
 
 Hoogtepunten

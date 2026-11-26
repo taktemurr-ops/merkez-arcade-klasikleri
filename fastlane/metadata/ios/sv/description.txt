@@ -1,10 +1,10 @@
-Arkadklassiker samlar 63 arkadspel i en app, med vår egen design. Klassisk arkad, spring och hopp, sport, skicklighet och reflexer, fysik och sikte, labyrinter och rivaler; varje spel har egna framsteg, uppdrag och prestationer.
+Arkadklassiker samlar 69 arkadspel i en app, med vår egen design. Klassisk arkad, spring och hopp, sport, skicklighet och reflexer, fysik och sikte, labyrinter och rivaler; varje spel har egna framsteg, uppdrag och prestationer.
 
 • Klassisk arkad: Ormen, Tegelkrossaren, Rymdskjutaren, Himlainkräktare, Stenkrossaren, Racketduellen, Labyrintjakten, Trädgårdens tusenfoting, Meteorförsvar, Stridsvagnsstriden, Kulregn, Flipper
-• Spring och hoppa: Ändlös löpning, Dinospurten, Skateruset, Studsrusch, Vingslag, Pappersflygplan, Plattformsäventyr, Spring och skjut, Vägkorsaren, Slalom, Spiralfallet, Färgpassagen
-• Sport: Minigolf, Bowling, Basketkast, Straffspark, Dart, Bågskytte, Fingerfotboll, Tennis, Beachvolleyboll, Airhockey, Biljard, Bordtennis
-• Skicklighet och reflexer: Ballongpop, Fruktskivaren, Bonka mullvaden, Reaktionstest, Siktträning, Skjutbanan, Knivkastning, Stapeltornet, Balanstornet, Entryckspaketet, Lugnt fiske
-• Fysik och sikte: Slangbella, Artilleriduellen, Klipp repet, Lutningslabyrint, Månlandning, Växande hål, Racer ovanifrån, Parkering 2D
+• Spring och hoppa: Ändlös löpning, Dinospurten, Skateruset, Studsrusch, Vingslag, Pappersflygplan, Plattformsäventyr, Spring och skjut, Vägkorsaren, Slalom, Spiralfallet, Färgpassagen, Folkmasselopp
+• Sport: Minigolf, Bowling, Basketkast, Straffspark, Dart, Bågskytte, Fingerfotboll, Tennis, Beachvolleyboll, Airhockey, Biljard, Bordtennis, Cricketslag, Badminton, Kabaddiräd
+• Skicklighet och reflexer: Ballongpop, Fruktskivaren, Bonka mullvaden, Reaktionstest, Siktträning, Skjutbanan, Knivkastning, Stapeltornet, Balanstornet, Entryckspaketet, Lugnt fiske, Drakduell
+• Fysik och sikte: Slangbella, Artilleriduellen, Klipp repet, Lutningslabyrint, Månlandning, Växande hål, Racer ovanifrån, Parkering 2D, Backfärd
 • Labyrinter och rivaler: Landerövring, Ormarenan, Ljuscyklar, Bomblabyrinten, Gräv djupt, Rasgruvan, Vandrarguiden, Tornförsvar
 
 Höjdpunkter
